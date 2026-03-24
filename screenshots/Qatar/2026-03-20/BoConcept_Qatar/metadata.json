@@ -1,0 +1,78 @@
+{
+  "competitor": "BoConcept Qatar",
+  "fbPageName": "BoConceptQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.079Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798079_0",
+      "createdAt": "2026-02-24T04:36:21.551Z",
+      "startedAt": "2026-03-15T15:32:10.261Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "25283",
+        "upper_bound": "169575"
+      },
+      "spend": {
+        "lower_bound": "367",
+        "upper_bound": "1330",
+        "currency": "QAR"
+      },
+      "fundingEntity": "BoConcept Qatar"
+    },
+    {
+      "id": "ad_1774034798079_1",
+      "createdAt": "2026-03-02T05:41:19.361Z",
+      "startedAt": "2026-03-19T04:07:09.345Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "20061",
+        "upper_bound": "205532"
+      },
+      "spend": {
+        "lower_bound": "498",
+        "upper_bound": "1298",
+        "currency": "QAR"
+      },
+      "fundingEntity": "BoConcept Qatar"
+    },
+    {
+      "id": "ad_1774034798079_2",
+      "createdAt": "2026-03-15T06:34:17.792Z",
+      "startedAt": "2026-03-18T14:38:39.729Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "33619",
+        "upper_bound": "189466"
+      },
+      "spend": {
+        "lower_bound": "183",
+        "upper_bound": "837",
+        "currency": "QAR"
+      },
+      "fundingEntity": "BoConcept Qatar"
+    },
+    {
+      "id": "ad_1774034798079_3",
+      "createdAt": "2026-02-19T04:52:08.944Z",
+      "startedAt": "2026-03-12T07:49:48.863Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "17203",
+        "upper_bound": "242134"
+      },
+      "spend": {
+        "lower_bound": "160",
+        "upper_bound": "700",
+        "currency": "QAR"
+      },
+      "fundingEntity": "BoConcept Qatar"
+    }
+  ]
+}

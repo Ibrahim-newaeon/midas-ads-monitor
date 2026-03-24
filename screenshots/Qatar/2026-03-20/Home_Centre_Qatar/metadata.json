@@ -1,0 +1,129 @@
+{
+  "competitor": "Home Centre Qatar",
+  "fbPageName": "homecentreQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:37.974Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034797974_0",
+      "createdAt": "2026-03-04T12:05:28.471Z",
+      "startedAt": "2026-03-15T22:48:51.401Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "45655",
+        "upper_bound": "125910"
+      },
+      "spend": {
+        "lower_bound": "231",
+        "upper_bound": "766",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Home Centre Qatar"
+    },
+    {
+      "id": "ad_1774034797974_1",
+      "createdAt": "2026-02-22T13:17:28.741Z",
+      "startedAt": "2026-03-07T19:54:05.917Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "26660",
+        "upper_bound": "78035"
+      },
+      "spend": {
+        "lower_bound": "528",
+        "upper_bound": "1083",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Home Centre Qatar"
+    },
+    {
+      "id": "ad_1774034797974_2",
+      "createdAt": "2026-03-03T03:40:39.050Z",
+      "startedAt": "2026-03-11T23:30:47.244Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "44402",
+        "upper_bound": "124198"
+      },
+      "spend": {
+        "lower_bound": "418",
+        "upper_bound": "1168",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Home Centre Qatar"
+    },
+    {
+      "id": "ad_1774034797974_3",
+      "createdAt": "2026-03-03T00:21:04.325Z",
+      "startedAt": "2026-03-15T10:34:01.758Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "56878",
+        "upper_bound": "72981"
+      },
+      "spend": {
+        "lower_bound": "258",
+        "upper_bound": "1934",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Home Centre Qatar"
+    },
+    {
+      "id": "ad_1774034797974_4",
+      "createdAt": "2026-03-04T15:13:33.205Z",
+      "startedAt": "2026-03-09T16:14:58.548Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "50850",
+        "upper_bound": "245671"
+      },
+      "spend": {
+        "lower_bound": "419",
+        "upper_bound": "1953",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Home Centre Qatar"
+    },
+    {
+      "id": "ad_1774034797974_5",
+      "createdAt": "2026-03-19T20:40:14.745Z",
+      "startedAt": "2026-03-09T01:00:45.775Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "56149",
+        "upper_bound": "182550"
+      },
+      "spend": {
+        "lower_bound": "487",
+        "upper_bound": "1388",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Home Centre Qatar"
+    },
+    {
+      "id": "ad_1774034797974_6",
+      "createdAt": "2026-02-26T15:58:36.866Z",
+      "startedAt": "2026-03-15T17:01:25.370Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "37450",
+        "upper_bound": "125414"
+      },
+      "spend": {
+        "lower_bound": "393",
+        "upper_bound": "1775",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Home Centre Qatar"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "competitor": "IKEA Kuwait",
+  "fbPageName": "IKEAKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.809Z",
+  "adsCount": 12,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805809_0",
+      "createdAt": "2026-02-21T00:13:20.941Z",
+      "startedAt": "2026-03-14T13:31:45.364Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "23851",
+        "upper_bound": "160733"
+      },
+      "spend": {
+        "lower_bound": "356",
+        "upper_bound": "2395",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_1",
+      "createdAt": "2026-03-12T19:24:36.936Z",
+      "startedAt": "2026-03-20T02:02:02.597Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "48683",
+        "upper_bound": "85830"
+      },
+      "spend": {
+        "lower_bound": "542",
+        "upper_bound": "2365",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_2",
+      "createdAt": "2026-02-26T18:02:45.611Z",
+      "startedAt": "2026-03-16T21:22:18.739Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "17346",
+        "upper_bound": "148006"
+      },
+      "spend": {
+        "lower_bound": "532",
+        "upper_bound": "695",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_3",
+      "createdAt": "2026-03-09T06:27:31.309Z",
+      "startedAt": "2026-03-08T06:08:38.292Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "24289",
+        "upper_bound": "223407"
+      },
+      "spend": {
+        "lower_bound": "369",
+        "upper_bound": "2333",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_4",
+      "createdAt": "2026-03-05T06:31:12.803Z",
+      "startedAt": "2026-03-16T15:03:20.102Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "51015",
+        "upper_bound": "222056"
+      },
+      "spend": {
+        "lower_bound": "281",
+        "upper_bound": "1023",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_5",
+      "createdAt": "2026-03-05T19:55:00.814Z",
+      "startedAt": "2026-03-17T19:49:58.566Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "54199",
+        "upper_bound": "120815"
+      },
+      "spend": {
+        "lower_bound": "361",
+        "upper_bound": "1640",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_6",
+      "createdAt": "2026-02-19T01:43:05.932Z",
+      "startedAt": "2026-03-09T00:12:34.079Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "21465",
+        "upper_bound": "75247"
+      },
+      "spend": {
+        "lower_bound": "571",
+        "upper_bound": "1960",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_7",
+      "createdAt": "2026-03-13T09:15:24.440Z",
+      "startedAt": "2026-03-17T22:17:34.099Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_7",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "22751",
+        "upper_bound": "197475"
+      },
+      "spend": {
+        "lower_bound": "207",
+        "upper_bound": "1842",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_8",
+      "createdAt": "2026-02-27T07:58:06.498Z",
+      "startedAt": "2026-03-15T02:39:11.097Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_8",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "51730",
+        "upper_bound": "123363"
+      },
+      "spend": {
+        "lower_bound": "135",
+        "upper_bound": "841",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_9",
+      "createdAt": "2026-03-19T05:35:18.385Z",
+      "startedAt": "2026-03-20T00:44:38.717Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_9",
+      "body": "🛋️ Discover our latest bedroom set collection.",
+      "impressions": {
+        "lower_bound": "15942",
+        "upper_bound": "147225"
+      },
+      "spend": {
+        "lower_bound": "370",
+        "upper_bound": "1781",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_10",
+      "createdAt": "2026-03-10T04:16:25.635Z",
+      "startedAt": "2026-03-20T15:59:26.637Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_10",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "59575",
+        "upper_bound": "175307"
+      },
+      "spend": {
+        "lower_bound": "468",
+        "upper_bound": "1070",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    },
+    {
+      "id": "ad_1774034805809_11",
+      "createdAt": "2026-03-11T21:27:30.300Z",
+      "startedAt": "2026-03-16T01:21:04.719Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_11",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "56982",
+        "upper_bound": "188142"
+      },
+      "spend": {
+        "lower_bound": "259",
+        "upper_bound": "1646",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IKEA Kuwait"
+    }
+  ]
+}

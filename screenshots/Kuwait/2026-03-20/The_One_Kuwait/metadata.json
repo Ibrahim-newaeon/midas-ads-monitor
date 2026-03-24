@@ -1,0 +1,78 @@
+{
+  "competitor": "The One Kuwait",
+  "fbPageName": "TheOneKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.913Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805913_0",
+      "createdAt": "2026-03-10T14:48:23.199Z",
+      "startedAt": "2026-03-15T16:08:23.017Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "39697",
+        "upper_bound": "149570"
+      },
+      "spend": {
+        "lower_bound": "232",
+        "upper_bound": "1823",
+        "currency": "KWD"
+      },
+      "fundingEntity": "The One Kuwait"
+    },
+    {
+      "id": "ad_1774034805913_1",
+      "createdAt": "2026-03-10T17:56:45.970Z",
+      "startedAt": "2026-03-14T13:08:06.772Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "24097",
+        "upper_bound": "106399"
+      },
+      "spend": {
+        "lower_bound": "206",
+        "upper_bound": "2462",
+        "currency": "KWD"
+      },
+      "fundingEntity": "The One Kuwait"
+    },
+    {
+      "id": "ad_1774034805913_2",
+      "createdAt": "2026-03-12T10:16:42.204Z",
+      "startedAt": "2026-03-11T09:01:19.669Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "17898",
+        "upper_bound": "216236"
+      },
+      "spend": {
+        "lower_bound": "172",
+        "upper_bound": "1922",
+        "currency": "KWD"
+      },
+      "fundingEntity": "The One Kuwait"
+    },
+    {
+      "id": "ad_1774034805913_3",
+      "createdAt": "2026-03-13T03:10:49.449Z",
+      "startedAt": "2026-03-09T09:33:08.888Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "34072",
+        "upper_bound": "187660"
+      },
+      "spend": {
+        "lower_bound": "407",
+        "upper_bound": "1072",
+        "currency": "KWD"
+      },
+      "fundingEntity": "The One Kuwait"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "competitor": "Home Centre Kuwait",
+  "fbPageName": "homecentreKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.878Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805878_0",
+      "createdAt": "2026-02-23T12:14:04.476Z",
+      "startedAt": "2026-03-09T08:19:58.081Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "41416",
+        "upper_bound": "144515"
+      },
+      "spend": {
+        "lower_bound": "495",
+        "upper_bound": "1653",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Home Centre Kuwait"
+    },
+    {
+      "id": "ad_1774034805878_1",
+      "createdAt": "2026-02-25T16:18:31.819Z",
+      "startedAt": "2026-03-16T16:25:46.947Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "49982",
+        "upper_bound": "138167"
+      },
+      "spend": {
+        "lower_bound": "480",
+        "upper_bound": "1918",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Home Centre Kuwait"
+    },
+    {
+      "id": "ad_1774034805878_2",
+      "createdAt": "2026-03-08T23:02:30.147Z",
+      "startedAt": "2026-03-18T08:56:23.179Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "18321",
+        "upper_bound": "235833"
+      },
+      "spend": {
+        "lower_bound": "535",
+        "upper_bound": "1969",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Home Centre Kuwait"
+    },
+    {
+      "id": "ad_1774034805878_3",
+      "createdAt": "2026-02-25T08:38:50.075Z",
+      "startedAt": "2026-03-16T12:22:53.374Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "41039",
+        "upper_bound": "233143"
+      },
+      "spend": {
+        "lower_bound": "431",
+        "upper_bound": "1370",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Home Centre Kuwait"
+    },
+    {
+      "id": "ad_1774034805878_4",
+      "createdAt": "2026-02-20T12:49:18.069Z",
+      "startedAt": "2026-03-13T19:34:11.315Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "46896",
+        "upper_bound": "176617"
+      },
+      "spend": {
+        "lower_bound": "211",
+        "upper_bound": "2246",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Home Centre Kuwait"
+    },
+    {
+      "id": "ad_1774034805878_5",
+      "createdAt": "2026-02-26T19:50:34.496Z",
+      "startedAt": "2026-03-17T07:49:16.217Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "32640",
+        "upper_bound": "216274"
+      },
+      "spend": {
+        "lower_bound": "269",
+        "upper_bound": "1342",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Home Centre Kuwait"
+    },
+    {
+      "id": "ad_1774034805878_6",
+      "createdAt": "2026-02-19T15:50:19.305Z",
+      "startedAt": "2026-03-09T02:30:44.880Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "10009",
+        "upper_bound": "85920"
+      },
+      "spend": {
+        "lower_bound": "492",
+        "upper_bound": "860",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Home Centre Kuwait"
+    }
+  ]
+}

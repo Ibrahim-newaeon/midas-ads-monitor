@@ -1,0 +1,214 @@
+{
+  "competitor": "JYSK Kuwait",
+  "fbPageName": "JYSKKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.990Z",
+  "adsCount": 12,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805990_0",
+      "createdAt": "2026-02-28T21:25:51.668Z",
+      "startedAt": "2026-03-15T01:40:25.241Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "50310",
+        "upper_bound": "242772"
+      },
+      "spend": {
+        "lower_bound": "432",
+        "upper_bound": "2474",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_1",
+      "createdAt": "2026-03-08T00:10:08.262Z",
+      "startedAt": "2026-03-14T05:11:11.478Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "24504",
+        "upper_bound": "99360"
+      },
+      "spend": {
+        "lower_bound": "147",
+        "upper_bound": "1024",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_2",
+      "createdAt": "2026-02-18T23:05:16.565Z",
+      "startedAt": "2026-03-11T20:24:55.443Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "19822",
+        "upper_bound": "82426"
+      },
+      "spend": {
+        "lower_bound": "188",
+        "upper_bound": "1246",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_3",
+      "createdAt": "2026-02-26T12:20:24.071Z",
+      "startedAt": "2026-03-19T17:36:25.444Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "33853",
+        "upper_bound": "241648"
+      },
+      "spend": {
+        "lower_bound": "517",
+        "upper_bound": "1999",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_4",
+      "createdAt": "2026-03-14T23:37:01.766Z",
+      "startedAt": "2026-03-13T22:29:34.568Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "34930",
+        "upper_bound": "68585"
+      },
+      "spend": {
+        "lower_bound": "381",
+        "upper_bound": "1005",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_5",
+      "createdAt": "2026-03-15T10:54:15.982Z",
+      "startedAt": "2026-03-14T10:36:32.789Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "33508",
+        "upper_bound": "52843"
+      },
+      "spend": {
+        "lower_bound": "262",
+        "upper_bound": "1929",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_6",
+      "createdAt": "2026-02-22T23:42:47.979Z",
+      "startedAt": "2026-03-15T09:00:50.025Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "47532",
+        "upper_bound": "237506"
+      },
+      "spend": {
+        "lower_bound": "366",
+        "upper_bound": "1909",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_7",
+      "createdAt": "2026-03-02T20:27:16.674Z",
+      "startedAt": "2026-03-16T02:11:32.984Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_7",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "42696",
+        "upper_bound": "164669"
+      },
+      "spend": {
+        "lower_bound": "334",
+        "upper_bound": "1741",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_8",
+      "createdAt": "2026-03-16T01:16:39.599Z",
+      "startedAt": "2026-03-13T21:23:36.953Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_8",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "28137",
+        "upper_bound": "173896"
+      },
+      "spend": {
+        "lower_bound": "393",
+        "upper_bound": "759",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_9",
+      "createdAt": "2026-03-02T14:02:46.974Z",
+      "startedAt": "2026-03-12T19:01:57.045Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_9",
+      "body": "🛋️ Discover our latest bedroom set collection.",
+      "impressions": {
+        "lower_bound": "18189",
+        "upper_bound": "139601"
+      },
+      "spend": {
+        "lower_bound": "206",
+        "upper_bound": "2091",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_10",
+      "createdAt": "2026-02-22T06:59:51.497Z",
+      "startedAt": "2026-03-13T06:56:32.372Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_10",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "51487",
+        "upper_bound": "123983"
+      },
+      "spend": {
+        "lower_bound": "310",
+        "upper_bound": "1945",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    },
+    {
+      "id": "ad_1774034805990_11",
+      "createdAt": "2026-02-27T01:15:40.233Z",
+      "startedAt": "2026-03-10T07:44:56.144Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_11",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "33848",
+        "upper_bound": "126128"
+      },
+      "spend": {
+        "lower_bound": "396",
+        "upper_bound": "2158",
+        "currency": "KWD"
+      },
+      "fundingEntity": "JYSK Kuwait"
+    }
+  ]
+}

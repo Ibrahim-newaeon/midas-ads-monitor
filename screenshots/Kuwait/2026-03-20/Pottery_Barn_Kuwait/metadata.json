@@ -1,0 +1,78 @@
+{
+  "competitor": "Pottery Barn Kuwait",
+  "fbPageName": "PotteryBarnMENA",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:46.079Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034806079_0",
+      "createdAt": "2026-03-06T02:46:10.042Z",
+      "startedAt": "2026-03-09T19:30:03.073Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "46150",
+        "upper_bound": "83521"
+      },
+      "spend": {
+        "lower_bound": "295",
+        "upper_bound": "568",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pottery Barn Kuwait"
+    },
+    {
+      "id": "ad_1774034806079_1",
+      "createdAt": "2026-03-04T14:58:50.344Z",
+      "startedAt": "2026-03-13T19:56:04.112Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "15165",
+        "upper_bound": "153418"
+      },
+      "spend": {
+        "lower_bound": "326",
+        "upper_bound": "990",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pottery Barn Kuwait"
+    },
+    {
+      "id": "ad_1774034806079_2",
+      "createdAt": "2026-03-12T15:50:05.643Z",
+      "startedAt": "2026-03-08T12:58:47.843Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "54977",
+        "upper_bound": "224445"
+      },
+      "spend": {
+        "lower_bound": "469",
+        "upper_bound": "920",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pottery Barn Kuwait"
+    },
+    {
+      "id": "ad_1774034806079_3",
+      "createdAt": "2026-03-14T01:12:29.281Z",
+      "startedAt": "2026-03-15T22:30:52.337Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "46308",
+        "upper_bound": "203250"
+      },
+      "spend": {
+        "lower_bound": "274",
+        "upper_bound": "2262",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pottery Barn Kuwait"
+    }
+  ]
+}

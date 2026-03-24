@@ -1,0 +1,1022 @@
+2026-03-20 19:14:40 [INFO ] 🪑  Midas Furniture — Ads Intelligence Monitor v1.0
+2026-03-20 19:14:40 [INFO ]     Mode: single run
+2026-03-20 19:14:40 [INFO ]     Filter: KSA
+2026-03-20 19:14:40 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-20 19:14:40 [INFO ]   Midas Ads Monitor — DRY RUN [dryrun_1774034080140]
+2026-03-20 19:14:40 [INFO ]   (Simulated data — Meta API/browser blocked in sandbox)
+2026-03-20 19:14:40 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-20 19:14:40 [INFO ] ✓ Directory structure initialized
+2026-03-20 19:14:40 [INFO ] 
+┌─ Country: KSA ─────────────────────────────────────
+2026-03-20 19:14:40 [INFO ] │  ⭐ Priority: IKEA Saudi Arabia, Pan Emirates, Home Centre KSA
+2026-03-20 19:14:40 [INFO ] │  [ 1/20] IKEA Saudi Arabia ⭐ — 12 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_007_mock_6.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_008_mock_7.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_009_mock_8.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_010_mock_9.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_011_mock_10.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_012_mock_11.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [ 2/20] Pan Emirates ⭐ — 7 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Pan_Emirates/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_007_mock_6.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [ 3/20] Home Centre KSA ⭐ — 7 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_007_mock_6.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [ 4/20] Danube Home — 7 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Danube_Home/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_007_mock_6.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [ 5/20] Marina Home — 4 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Marina_Home/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Marina_Home/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Marina_Home/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Marina_Home/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Marina_Home/ad_004_mock_3.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [ 6/20] Pottery Barn MENA — 4 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/ad_004_mock_3.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [ 7/20] West Elm MENA — 4 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/West_Elm_MENA/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/West_Elm_MENA/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/West_Elm_MENA/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/West_Elm_MENA/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/West_Elm_MENA/ad_004_mock_3.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [ 8/20] BoConcept KSA — 4 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/BoConcept_KSA/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/BoConcept_KSA/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/BoConcept_KSA/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/BoConcept_KSA/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/BoConcept_KSA/ad_004_mock_3.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [ 9/20] JYSK Saudi — 12 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/JYSK_Saudi/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_007_mock_6.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_008_mock_7.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_009_mock_8.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_010_mock_9.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_011_mock_10.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_012_mock_11.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [10/20] IDdesign — 7 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/IDdesign/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_007_mock_6.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [11/20] Homes R Us — 7 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Homes_R_Us/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_007_mock_6.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [12/20] The One KSA — 4 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/The_One_KSA/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/The_One_KSA/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/The_One_KSA/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/The_One_KSA/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/The_One_KSA/ad_004_mock_3.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [13/20] Restoration Hardware — 2 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Restoration_Hardware/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Restoration_Hardware/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Restoration_Hardware/ad_002_mock_1.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 2 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [14/20] Crate & Barrel MENA — 4 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/ad_004_mock_3.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [15/20] Natuzzi Arabia — 2 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Natuzzi_Arabia/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Natuzzi_Arabia/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Natuzzi_Arabia/ad_002_mock_1.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 2 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [16/20] Al Rugaib Furniture — 3 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Al_Rugaib_Furniture/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Al_Rugaib_Furniture/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Al_Rugaib_Furniture/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Al_Rugaib_Furniture/ad_003_mock_2.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [17/20] Hawa Furniture — 3 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Hawa_Furniture/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Hawa_Furniture/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Hawa_Furniture/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Hawa_Furniture/ad_003_mock_2.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [18/20] Harveys Furniture — 7 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Harveys_Furniture/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_007_mock_6.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [19/20] Ashley Furniture KSA — 7 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_007_mock_6.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:14:40 [INFO ] │  [20/20] Kika Furniture KSA — 12 mock ads
+2026-03-20 19:14:40 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/metadata.json
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_001_mock_0.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_002_mock_1.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_003_mock_2.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_004_mock_3.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_005_mock_4.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_006_mock_5.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_007_mock_6.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_008_mock_7.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_009_mock_8.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_010_mock_9.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_011_mock_10.png
+2026-03-20 19:14:40 [DEBUG] Saved: screenshots/KSA/2026-03-20/Kika_Furniture_KSA/ad_012_mock_11.png
+2026-03-20 19:14:40 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:14:40 [INFO ] └─ KSA done
+2026-03-20 19:14:40 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 19:14:40 [INFO ]   DRY RUN Complete
+2026-03-20 19:14:40 [INFO ]   📸 119 mock screenshots written
+2026-03-20 19:14:40 [INFO ]   📊 119 simulated active ads
+2026-03-20 19:14:40 [INFO ]   ⏱  0s
+2026-03-20 19:14:40 [INFO ]   📄 JSON: reports/2026-03-20_dryrun_1774034080140.json
+2026-03-20 19:14:40 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 19:14:40 [INFO ] ✓ HTML report: reports/2026-03-20_dryrun_1774034080140.html
+2026-03-20 19:26:37 [INFO ] 🪑  Midas Furniture — Ads Intelligence Monitor v1.0
+2026-03-20 19:26:37 [INFO ]     Mode: single run
+2026-03-20 19:26:37 [INFO ]     Filter: Qatar
+2026-03-20 19:26:37 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-20 19:26:37 [INFO ]   Midas Ads Monitor — DRY RUN [dryrun_1774034797895]
+2026-03-20 19:26:37 [INFO ]   (Simulated data — Meta API/browser blocked in sandbox)
+2026-03-20 19:26:37 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-20 19:26:37 [INFO ] ✓ Directory structure initialized
+2026-03-20 19:26:37 [INFO ] 
+┌─ Country: Qatar ───────────────────────────────────
+2026-03-20 19:26:37 [INFO ] │  [ 1/20] IKEA Qatar — 12 mock ads
+2026-03-20 19:26:37 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/metadata.json
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_005_mock_4.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_006_mock_5.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_007_mock_6.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_008_mock_7.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_009_mock_8.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_010_mock_9.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_011_mock_10.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IKEA_Qatar/ad_012_mock_11.png
+2026-03-20 19:26:37 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:26:37 [INFO ] │  [ 2/20] Pan Emirates Qatar — 7 mock ads
+2026-03-20 19:26:37 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Pan_Emirates_Qatar/metadata.json
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pan_Emirates_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pan_Emirates_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pan_Emirates_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pan_Emirates_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pan_Emirates_Qatar/ad_005_mock_4.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pan_Emirates_Qatar/ad_006_mock_5.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pan_Emirates_Qatar/ad_007_mock_6.png
+2026-03-20 19:26:37 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:37 [INFO ] │  [ 3/20] Home Centre Qatar — 7 mock ads
+2026-03-20 19:26:37 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Home_Centre_Qatar/metadata.json
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Home_Centre_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:37 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Home_Centre_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Home_Centre_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Home_Centre_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Home_Centre_Qatar/ad_005_mock_4.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Home_Centre_Qatar/ad_006_mock_5.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Home_Centre_Qatar/ad_007_mock_6.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [ 4/20] Danube Home Qatar — 7 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Danube_Home_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Danube_Home_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Danube_Home_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Danube_Home_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Danube_Home_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Danube_Home_Qatar/ad_005_mock_4.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Danube_Home_Qatar/ad_006_mock_5.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Danube_Home_Qatar/ad_007_mock_6.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [ 5/20] Marina Home Qatar — 4 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Marina_Home_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Marina_Home_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Marina_Home_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Marina_Home_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Marina_Home_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [ 6/20] Pottery Barn Qatar — 4 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Pottery_Barn_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pottery_Barn_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pottery_Barn_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pottery_Barn_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Pottery_Barn_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [ 7/20] West Elm Qatar — 4 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/West_Elm_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/West_Elm_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/West_Elm_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/West_Elm_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/West_Elm_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [ 8/20] Homes R Us Qatar — 7 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Homes_R_Us_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Homes_R_Us_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Homes_R_Us_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Homes_R_Us_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Homes_R_Us_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Homes_R_Us_Qatar/ad_005_mock_4.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Homes_R_Us_Qatar/ad_006_mock_5.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Homes_R_Us_Qatar/ad_007_mock_6.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [ 9/20] The One Qatar — 4 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/The_One_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/The_One_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/The_One_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/The_One_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/The_One_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [10/20] BoConcept Qatar — 4 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/BoConcept_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/BoConcept_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/BoConcept_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/BoConcept_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/BoConcept_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [11/20] IDdesign Qatar — 7 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/IDdesign_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IDdesign_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IDdesign_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IDdesign_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IDdesign_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IDdesign_Qatar/ad_005_mock_4.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IDdesign_Qatar/ad_006_mock_5.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/IDdesign_Qatar/ad_007_mock_6.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [12/20] Crate & Barrel Qatar — 4 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Crate_Barrel_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Crate_Barrel_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Crate_Barrel_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Crate_Barrel_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Crate_Barrel_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [13/20] Villaggio Home Qatar — 3 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Villaggio_Home_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Villaggio_Home_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Villaggio_Home_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Villaggio_Home_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [14/20] Al Mana Furniture — 3 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Al_Mana_Furniture/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Al_Mana_Furniture/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Al_Mana_Furniture/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Al_Mana_Furniture/ad_003_mock_2.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [15/20] Doha Furniture — 3 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Doha_Furniture/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Doha_Furniture/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Doha_Furniture/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Doha_Furniture/ad_003_mock_2.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [16/20] JYSK Qatar — 12 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_005_mock_4.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_006_mock_5.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_007_mock_6.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_008_mock_7.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_009_mock_8.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_010_mock_9.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_011_mock_10.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/JYSK_Qatar/ad_012_mock_11.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [17/20] Ashley Furniture QA — 7 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Ashley_Furniture_QA/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Ashley_Furniture_QA/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Ashley_Furniture_QA/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Ashley_Furniture_QA/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Ashley_Furniture_QA/ad_004_mock_3.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Ashley_Furniture_QA/ad_005_mock_4.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Ashley_Furniture_QA/ad_006_mock_5.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Ashley_Furniture_QA/ad_007_mock_6.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [18/20] Harvest Home Qatar — 7 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Harvest_Home_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Harvest_Home_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Harvest_Home_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Harvest_Home_Qatar/ad_003_mock_2.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Harvest_Home_Qatar/ad_004_mock_3.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Harvest_Home_Qatar/ad_005_mock_4.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Harvest_Home_Qatar/ad_006_mock_5.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Harvest_Home_Qatar/ad_007_mock_6.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [19/20] Natuzzi Qatar — 2 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Natuzzi_Qatar/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Natuzzi_Qatar/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Natuzzi_Qatar/ad_002_mock_1.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 2 screenshots saved
+2026-03-20 19:26:38 [INFO ] │  [20/20] Restoration Hardware — 2 mock ads
+2026-03-20 19:26:38 [DEBUG] Metadata saved: screenshots/Qatar/2026-03-20/Restoration_Hardware/metadata.json
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Restoration_Hardware/ad_001_mock_0.png
+2026-03-20 19:26:38 [DEBUG] Saved: screenshots/Qatar/2026-03-20/Restoration_Hardware/ad_002_mock_1.png
+2026-03-20 19:26:38 [INFO ] │     → ✓ 2 screenshots saved
+2026-03-20 19:26:38 [INFO ] └─ Qatar done
+2026-03-20 19:26:38 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 19:26:38 [INFO ]   DRY RUN Complete
+2026-03-20 19:26:38 [INFO ]   📸 110 mock screenshots written
+2026-03-20 19:26:38 [INFO ]   📊 110 simulated active ads
+2026-03-20 19:26:38 [INFO ]   ⏱  0s
+2026-03-20 19:26:38 [INFO ]   📄 JSON: reports/2026-03-20_dryrun_1774034797895.json
+2026-03-20 19:26:38 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 19:26:38 [INFO ] ✓ HTML report: reports/2026-03-20_dryrun_1774034797895.html
+2026-03-20 19:26:45 [INFO ] 🪑  Midas Furniture — Ads Intelligence Monitor v1.0
+2026-03-20 19:26:45 [INFO ]     Mode: single run
+2026-03-20 19:26:45 [INFO ]     Filter: Kuwait
+2026-03-20 19:26:45 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-20 19:26:45 [INFO ]   Midas Ads Monitor — DRY RUN [dryrun_1774034805801]
+2026-03-20 19:26:45 [INFO ]   (Simulated data — Meta API/browser blocked in sandbox)
+2026-03-20 19:26:45 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-20 19:26:45 [INFO ] ✓ Directory structure initialized
+2026-03-20 19:26:45 [INFO ] 
+┌─ Country: Kuwait ──────────────────────────────────
+2026-03-20 19:26:45 [INFO ] │  [ 1/20] IKEA Kuwait — 12 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_005_mock_4.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_006_mock_5.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_007_mock_6.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_008_mock_7.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_009_mock_8.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_010_mock_9.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_011_mock_10.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IKEA_Kuwait/ad_012_mock_11.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [ 2/20] Pan Emirates Kuwait — 7 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Pan_Emirates_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pan_Emirates_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pan_Emirates_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pan_Emirates_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pan_Emirates_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pan_Emirates_Kuwait/ad_005_mock_4.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pan_Emirates_Kuwait/ad_006_mock_5.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pan_Emirates_Kuwait/ad_007_mock_6.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [ 3/20] Home Centre Kuwait — 7 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Home_Centre_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Home_Centre_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Home_Centre_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Home_Centre_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Home_Centre_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Home_Centre_Kuwait/ad_005_mock_4.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Home_Centre_Kuwait/ad_006_mock_5.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Home_Centre_Kuwait/ad_007_mock_6.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [ 4/20] Danube Home Kuwait — 7 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Danube_Home_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Danube_Home_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Danube_Home_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Danube_Home_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Danube_Home_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Danube_Home_Kuwait/ad_005_mock_4.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Danube_Home_Kuwait/ad_006_mock_5.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Danube_Home_Kuwait/ad_007_mock_6.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [ 5/20] Marina Home Kuwait — 4 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Marina_Home_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Marina_Home_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Marina_Home_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Marina_Home_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Marina_Home_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [ 6/20] Homes R Us Kuwait — 7 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Homes_R_Us_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Homes_R_Us_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Homes_R_Us_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Homes_R_Us_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Homes_R_Us_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Homes_R_Us_Kuwait/ad_005_mock_4.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Homes_R_Us_Kuwait/ad_006_mock_5.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Homes_R_Us_Kuwait/ad_007_mock_6.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [ 7/20] The One Kuwait — 4 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/The_One_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/The_One_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/The_One_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/The_One_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/The_One_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [ 8/20] IDdesign Kuwait — 7 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/IDdesign_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IDdesign_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IDdesign_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IDdesign_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IDdesign_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IDdesign_Kuwait/ad_005_mock_4.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IDdesign_Kuwait/ad_006_mock_5.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/IDdesign_Kuwait/ad_007_mock_6.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [ 9/20] BoConcept Kuwait — 4 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/BoConcept_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/BoConcept_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/BoConcept_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/BoConcept_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/BoConcept_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:45 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:45 [INFO ] │  [10/20] JYSK Kuwait — 12 mock ads
+2026-03-20 19:26:45 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/metadata.json
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:45 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_005_mock_4.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_006_mock_5.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_007_mock_6.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_008_mock_7.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_009_mock_8.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_010_mock_9.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_011_mock_10.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/JYSK_Kuwait/ad_012_mock_11.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [11/20] Al Hamra Furniture — 3 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Al_Hamra_Furniture/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Al_Hamra_Furniture/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Al_Hamra_Furniture/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Al_Hamra_Furniture/ad_003_mock_2.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [12/20] Kuwait Furniture — 3 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Kuwait_Furniture/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kuwait_Furniture/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kuwait_Furniture/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kuwait_Furniture/ad_003_mock_2.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [13/20] Ashley Furniture KW — 7 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Ashley_Furniture_KW/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Ashley_Furniture_KW/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Ashley_Furniture_KW/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Ashley_Furniture_KW/ad_003_mock_2.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Ashley_Furniture_KW/ad_004_mock_3.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Ashley_Furniture_KW/ad_005_mock_4.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Ashley_Furniture_KW/ad_006_mock_5.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Ashley_Furniture_KW/ad_007_mock_6.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [14/20] Natuzzi Kuwait — 2 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Natuzzi_Kuwait/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Natuzzi_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Natuzzi_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 2 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [15/20] Pottery Barn Kuwait — 4 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Pottery_Barn_Kuwait/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pottery_Barn_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pottery_Barn_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pottery_Barn_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Pottery_Barn_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [16/20] West Elm Kuwait — 4 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/West_Elm_Kuwait/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/West_Elm_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/West_Elm_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/West_Elm_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/West_Elm_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [17/20] Crate & Barrel KW — 4 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Crate_Barrel_KW/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Crate_Barrel_KW/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Crate_Barrel_KW/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Crate_Barrel_KW/ad_003_mock_2.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Crate_Barrel_KW/ad_004_mock_3.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [18/20] Naser Al-Bader — 3 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Naser_Al-Bader/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Naser_Al-Bader/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Naser_Al-Bader/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Naser_Al-Bader/ad_003_mock_2.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [19/20] Al Sayer Furniture — 3 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Al_Sayer_Furniture/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Al_Sayer_Furniture/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Al_Sayer_Furniture/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Al_Sayer_Furniture/ad_003_mock_2.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:26:46 [INFO ] │  [20/20] Kika Furniture Kuwait — 12 mock ads
+2026-03-20 19:26:46 [DEBUG] Metadata saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/metadata.json
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_001_mock_0.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_002_mock_1.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_003_mock_2.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_004_mock_3.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_005_mock_4.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_006_mock_5.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_007_mock_6.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_008_mock_7.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_009_mock_8.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_010_mock_9.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_011_mock_10.png
+2026-03-20 19:26:46 [DEBUG] Saved: screenshots/Kuwait/2026-03-20/Kika_Furniture_Kuwait/ad_012_mock_11.png
+2026-03-20 19:26:46 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:26:46 [INFO ] └─ Kuwait done
+2026-03-20 19:26:46 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 19:26:46 [INFO ]   DRY RUN Complete
+2026-03-20 19:26:46 [INFO ]   📸 116 mock screenshots written
+2026-03-20 19:26:46 [INFO ]   📊 116 simulated active ads
+2026-03-20 19:26:46 [INFO ]   ⏱  0s
+2026-03-20 19:26:46 [INFO ]   📄 JSON: reports/2026-03-20_dryrun_1774034805801.json
+2026-03-20 19:26:46 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 19:26:46 [INFO ] ✓ HTML report: reports/2026-03-20_dryrun_1774034805801.html
+2026-03-20 19:29:46 [INFO ] Midas Furniture - Ads Intelligence Monitor v1.0
+2026-03-20 19:29:46 [INFO ]     Mode:     dry-run
+2026-03-20 19:29:46 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-20 19:29:46 [INFO ]   Midas Ads Monitor — DRY RUN [dryrun_1774034986398]
+2026-03-20 19:29:46 [INFO ]   (Simulated data — Meta API/browser blocked in sandbox)
+2026-03-20 19:29:46 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-20 19:29:46 [INFO ] ✓ Directory structure initialized
+2026-03-20 19:29:46 [INFO ] 
+┌─ Country: KSA ─────────────────────────────────────
+2026-03-20 19:29:46 [INFO ] │  ⭐ Priority: IKEA Saudi Arabia, Pan Emirates, Home Centre KSA
+2026-03-20 19:29:46 [INFO ] │  [ 1/20] IKEA Saudi Arabia ⭐ — 12 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_006_mock_5.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_007_mock_6.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_008_mock_7.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_009_mock_8.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_010_mock_9.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_011_mock_10.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IKEA_Saudi_Arabia/ad_012_mock_11.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [ 2/20] Pan Emirates ⭐ — 7 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Pan_Emirates/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_006_mock_5.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pan_Emirates/ad_007_mock_6.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [ 3/20] Home Centre KSA ⭐ — 7 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_006_mock_5.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Home_Centre_KSA/ad_007_mock_6.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [ 4/20] Danube Home — 7 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Danube_Home/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_006_mock_5.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Danube_Home/ad_007_mock_6.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [ 5/20] Marina Home — 4 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Marina_Home/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Marina_Home/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Marina_Home/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Marina_Home/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Marina_Home/ad_004_mock_3.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [ 6/20] Pottery Barn MENA — 4 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Pottery_Barn_MENA/ad_004_mock_3.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [ 7/20] West Elm MENA — 4 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/West_Elm_MENA/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/West_Elm_MENA/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/West_Elm_MENA/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/West_Elm_MENA/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/West_Elm_MENA/ad_004_mock_3.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [ 8/20] BoConcept KSA — 4 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/BoConcept_KSA/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/BoConcept_KSA/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/BoConcept_KSA/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/BoConcept_KSA/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/BoConcept_KSA/ad_004_mock_3.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [ 9/20] JYSK Saudi — 12 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/JYSK_Saudi/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_006_mock_5.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_007_mock_6.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_008_mock_7.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_009_mock_8.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_010_mock_9.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_011_mock_10.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/JYSK_Saudi/ad_012_mock_11.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 12 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [10/20] IDdesign — 7 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/IDdesign/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_006_mock_5.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/IDdesign/ad_007_mock_6.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [11/20] Homes R Us — 7 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Homes_R_Us/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_006_mock_5.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Homes_R_Us/ad_007_mock_6.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [12/20] The One KSA — 4 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/The_One_KSA/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/The_One_KSA/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/The_One_KSA/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/The_One_KSA/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/The_One_KSA/ad_004_mock_3.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [13/20] Restoration Hardware — 2 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Restoration_Hardware/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Restoration_Hardware/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Restoration_Hardware/ad_002_mock_1.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 2 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [14/20] Crate & Barrel MENA — 4 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Crate_Barrel_MENA/ad_004_mock_3.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 4 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [15/20] Natuzzi Arabia — 2 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Natuzzi_Arabia/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Natuzzi_Arabia/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Natuzzi_Arabia/ad_002_mock_1.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 2 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [16/20] Al Rugaib Furniture — 3 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Al_Rugaib_Furniture/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Al_Rugaib_Furniture/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Al_Rugaib_Furniture/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Al_Rugaib_Furniture/ad_003_mock_2.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [17/20] Hawa Furniture — 3 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Hawa_Furniture/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Hawa_Furniture/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Hawa_Furniture/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Hawa_Furniture/ad_003_mock_2.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 3 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [18/20] Harveys Furniture — 7 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Harveys_Furniture/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_006_mock_5.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Harveys_Furniture/ad_007_mock_6.png
+2026-03-20 19:29:46 [INFO ] │     → ✓ 7 screenshots saved
+2026-03-20 19:29:46 [INFO ] │  [19/20] Ashley Furniture KSA — 7 mock ads
+2026-03-20 19:29:46 [DEBUG] Metadata saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/metadata.json
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_001_mock_0.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_002_mock_1.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_003_mock_2.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_004_mock_3.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_005_mock_4.png
+2026-03-20 19:29:46 [DEBUG] Saved: screenshots/KSA/2026-03-20/Ashley_Furniture_KSA/ad_006_mock_5.png
+2026-03-20 23:05:07 [INFO ] Midas Furniture - Ads Intelligence Monitor v1.0
+2026-03-20 23:05:07 [INFO ]     Mode:     scheduled [MORNING_PEAK]
+2026-03-20 23:05:07 [INFO ]     Schedule: 09:00 GST (morning peak)
+2026-03-20 23:05:07 [INFO ] ⏰  Scheduler: 09:00 GST (morning peak)
+2026-03-20 23:05:07 [INFO ]     Cron:     [0 5 * * *] timezone: Asia/Dubai
+2026-03-20 23:05:07 [INFO ]     Markets:  KSA → Qatar → Kuwait
+2026-03-20 23:05:07 [INFO ]     Status:   RUNNING — waiting for next trigger
+2026-03-20 23:05:07 [INFO ] Daemon running. Press Ctrl+C to stop.
+2026-03-21 04:00:00 [INFO ] ▶  Peak-hour run triggered
+2026-03-21 04:00:00 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-21 04:00:00 [INFO ]   Midas Ads Monitor — Run Started  [run_1774054800987]
+2026-03-21 04:00:00 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-21 04:00:01 [WARN ] ⚠  Meta API token check: Error validating access token: Session has expired on Friday, 20-Mar-26 14:00:00 PDT. The current time is Friday, 20-Mar-26 18:00:02 PDT.
+2026-03-21 04:00:01 [WARN ]    Running in BROWSER-ONLY mode (no API data — screenshots only)
+2026-03-21 04:00:01 [INFO ] ✓ Directory structure initialized
+2026-03-21 04:00:01 [INFO ] ✓ Chromium browser initialized
+2026-03-21 04:00:01 [INFO ] 
+┌─ Country: KSA ─────────────────────────────────────
+2026-03-21 04:00:01 [INFO ] │  Priority clients: IKEA Saudi Arabia, Pan Emirates, Home Centre KSA
+2026-03-21 04:00:01 [INFO ] │  Monitoring 20 competitors
+2026-03-21 04:00:01 [INFO ] │  [1/20] IKEA Saudi Arabia ⭐
+2026-03-21 04:00:01 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=IKEASaudiArabia&search_type=page
+2026-03-21 04:00:17 [INFO ]   Found 0 ad cards for "IKEASaudiArabia" (SA)
+2026-03-21 04:00:17 [INFO ] │     → 0 screenshots | 0 ads | 15959ms
+2026-03-21 04:00:20 [INFO ] │  [2/20] Pan Emirates ⭐
+2026-03-21 04:00:20 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=PanEmiratesFurniture&search_type=page
+2026-03-21 04:00:36 [INFO ]   Found 0 ad cards for "PanEmiratesFurniture" (SA)
+2026-03-21 04:00:36 [INFO ] │     → 0 screenshots | 0 ads | 16400ms
+2026-03-21 04:00:39 [INFO ] │  [3/20] Home Centre KSA ⭐
+2026-03-21 04:00:39 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=homecentreSA&search_type=page
+2026-03-21 04:00:55 [INFO ]   Found 0 ad cards for "homecentreSA" (SA)
+2026-03-21 04:00:55 [INFO ] │     → 0 screenshots | 0 ads | 16357ms
+2026-03-21 04:00:58 [INFO ] │  [4/20] Danube Home
+2026-03-21 04:00:58 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=DanubeHome&search_type=page
+2026-03-21 04:01:14 [INFO ]   Found 0 ad cards for "DanubeHome" (SA)
+2026-03-21 04:01:14 [INFO ] │     → 0 screenshots | 0 ads | 16551ms
+2026-03-21 04:01:17 [INFO ] │  [5/20] Marina Home
+2026-03-21 04:01:17 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=MarinHomeInteriors&search_type=page
+2026-03-21 04:01:33 [INFO ]   Found 0 ad cards for "MarinHomeInteriors" (SA)
+2026-03-21 04:01:33 [INFO ] │     → 0 screenshots | 0 ads | 16560ms
+2026-03-21 04:01:36 [INFO ] │  [6/20] Pottery Barn MENA
+2026-03-21 04:01:36 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=PotteryBarnMENA&search_type=page
+2026-03-21 04:01:52 [INFO ]   Found 0 ad cards for "PotteryBarnMENA" (SA)
+2026-03-21 04:01:52 [INFO ] │     → 0 screenshots | 0 ads | 16495ms
+2026-03-21 04:01:55 [INFO ] │  [7/20] West Elm MENA
+2026-03-21 04:01:55 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=WestElmMENA&search_type=page
+2026-03-21 04:02:11 [INFO ]   Found 0 ad cards for "WestElmMENA" (SA)
+2026-03-21 04:02:11 [INFO ] │     → 0 screenshots | 0 ads | 16338ms
+2026-03-21 04:02:13 [INFO ] │  [8/20] BoConcept KSA
+2026-03-21 04:02:14 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=BoConcept&search_type=page
+2026-03-21 04:02:30 [INFO ]   Found 0 ad cards for "BoConcept" (SA)
+2026-03-21 04:02:30 [INFO ] │     → 0 screenshots | 0 ads | 16825ms
+2026-03-21 04:02:33 [INFO ] │  [9/20] JYSK Saudi
+2026-03-21 04:02:33 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=JYSKSaudi&search_type=page
+2026-03-21 04:02:50 [INFO ]   Found 0 ad cards for "JYSKSaudi" (SA)
+2026-03-21 04:02:50 [INFO ] │     → 0 screenshots | 0 ads | 16904ms
+2026-03-21 04:02:52 [INFO ] │  [10/20] IDdesign
+2026-03-21 04:02:52 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=IDdesignMENA&search_type=page
+2026-03-21 04:03:10 [INFO ]   Found 0 ad cards for "IDdesignMENA" (SA)
+2026-03-21 04:03:10 [INFO ] │     → 0 screenshots | 0 ads | 17483ms
+2026-03-21 04:03:12 [INFO ] │  [11/20] Homes R Us
+2026-03-21 04:03:12 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=HomesRUsOfficial&search_type=page
+2026-03-21 04:03:29 [INFO ]   Found 0 ad cards for "HomesRUsOfficial" (SA)
+2026-03-21 04:03:29 [INFO ] │     → 0 screenshots | 0 ads | 16428ms
+2026-03-21 04:03:31 [INFO ] │  [12/20] The One KSA
+2026-03-21 04:03:31 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=theonelifestyle&search_type=page
+2026-03-21 04:03:47 [INFO ]   Found 0 ad cards for "theonelifestyle" (SA)
+2026-03-21 04:03:47 [INFO ] │     → 0 screenshots | 0 ads | 16297ms
+2026-03-21 04:03:50 [INFO ] │  [13/20] Restoration Hardware
+2026-03-21 04:03:50 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=RHRestorationHardware&search_type=page
+2026-03-21 04:04:06 [INFO ]   Found 0 ad cards for "RHRestorationHardware" (SA)
+2026-03-21 04:04:06 [INFO ] │     → 0 screenshots | 0 ads | 16342ms
+2026-03-21 04:04:09 [INFO ] │  [14/20] Crate & Barrel MENA
+2026-03-21 04:04:09 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=CrateAndBarrelMENA&search_type=page
+2026-03-21 04:04:25 [INFO ]   Found 0 ad cards for "CrateAndBarrelMENA" (SA)
+2026-03-21 04:04:25 [INFO ] │     → 0 screenshots | 0 ads | 16503ms
+2026-03-21 04:04:28 [INFO ] │  [15/20] Natuzzi Arabia
+2026-03-21 04:04:28 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=NatuzziArabia&search_type=page
+2026-03-21 04:04:44 [INFO ]   Found 0 ad cards for "NatuzziArabia" (SA)
+2026-03-21 04:04:44 [INFO ] │     → 0 screenshots | 0 ads | 16312ms
+2026-03-21 04:04:47 [INFO ] │  [16/20] Al Rugaib Furniture
+2026-03-21 04:04:47 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=AlRugaibFurniture&search_type=page
+2026-03-21 04:05:03 [INFO ]   Found 0 ad cards for "AlRugaibFurniture" (SA)
+2026-03-21 04:05:04 [INFO ] │     → 0 screenshots | 0 ads | 16874ms
+2026-03-21 04:05:06 [INFO ] │  [17/20] Hawa Furniture
+2026-03-21 04:05:06 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=HawaFurnitureSA&search_type=page
+2026-03-21 04:05:22 [INFO ]   Found 0 ad cards for "HawaFurnitureSA" (SA)
+2026-03-21 04:05:22 [INFO ] │     → 0 screenshots | 0 ads | 16285ms
+2026-03-21 04:05:25 [INFO ] │  [18/20] Harveys Furniture
+2026-03-21 04:05:25 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=HarveysFurnitureSA&search_type=page
+2026-03-21 04:05:41 [INFO ]   Found 0 ad cards for "HarveysFurnitureSA" (SA)
+2026-03-21 04:05:41 [INFO ] │     → 0 screenshots | 0 ads | 16423ms
+2026-03-21 04:05:44 [INFO ] │  [19/20] Ashley Furniture KSA
+2026-03-21 04:05:44 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=AshleyFurnitureSA&search_type=page
+2026-03-21 04:06:00 [INFO ]   Found 0 ad cards for "AshleyFurnitureSA" (SA)
+2026-03-21 04:06:00 [INFO ] │     → 0 screenshots | 0 ads | 16350ms
+2026-03-21 04:06:03 [INFO ] │  [20/20] Kika Furniture KSA
+2026-03-21 04:06:03 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=KikaFurnitureKSA&search_type=page
+2026-03-21 04:06:19 [INFO ]   Found 0 ad cards for "KikaFurnitureKSA" (SA)
+2026-03-21 04:06:19 [INFO ] │     → 0 screenshots | 0 ads | 16342ms
+2026-03-21 04:06:19 [INFO ] └─ KSA complete
+2026-03-21 04:06:19 [INFO ] 
+┌─ Country: Qatar ───────────────────────────────────
+2026-03-21 04:06:19 [INFO ] │  Monitoring 20 competitors
+2026-03-21 04:06:19 [INFO ] │  [1/20] IKEA Qatar
+2026-03-21 04:06:19 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=QA&q=IKEAQatar&search_type=page
+2026-03-21 04:06:22 [INFO ] Midas Furniture - Ads Intelligence Monitor v1.0
+2026-03-21 04:06:22 [INFO ]     Mode:     scheduled [MORNING_PEAK]
+2026-03-21 04:06:22 [INFO ]     Schedule: 09:00 GST (morning peak)
+2026-03-21 04:06:22 [INFO ] ⏰  Scheduler: 09:00 GST (morning peak)
+2026-03-21 04:06:22 [INFO ]     Cron:     [0 5 * * *] timezone: Asia/Dubai
+2026-03-21 04:06:22 [INFO ]     Markets:  KSA → Qatar → Kuwait
+2026-03-21 04:06:22 [INFO ]     Status:   RUNNING — waiting for next trigger
+2026-03-21 04:06:22 [INFO ] Daemon running. Press Ctrl+C to stop.
+2026-03-22 04:00:00 [INFO ] ▶  Peak-hour run triggered
+2026-03-22 04:00:00 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-22 04:00:00 [INFO ]   Midas Ads Monitor — Run Started  [run_1774141200779]
+2026-03-22 04:00:00 [INFO ] ════════════════════════════════════════════════════════════
+2026-03-22 04:00:01 [INFO ] ✓ Meta API token valid — Account: ابراهيم موسى عبدربه (4390377694578627)
+2026-03-22 04:00:01 [INFO ] ✓ Directory structure initialized
+2026-03-22 04:00:02 [INFO ] ✓ Chromium browser initialized
+2026-03-22 04:00:02 [INFO ] 
+┌─ Country: KSA ─────────────────────────────────────
+2026-03-22 04:00:02 [INFO ] │  Priority clients: IKEA Saudi Arabia, Pan Emirates, Home Centre KSA
+2026-03-22 04:00:02 [INFO ] │  Monitoring 20 competitors
+2026-03-22 04:00:02 [INFO ] │  [1/20] IKEA Saudi Arabia ⭐
+2026-03-22 04:00:03 [DEBUG]   Page 1: +0 ads [IKEASaudiArabia/SA]
+2026-03-22 04:00:03 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:00:03 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=IKEASaudiArabia&search_type=page
+2026-03-22 04:00:18 [INFO ]   Found 0 ad cards for "IKEASaudiArabia" (SA)
+2026-03-22 04:00:18 [INFO ] │     → 0 screenshots | 0 ads | 16715ms
+2026-03-22 04:00:21 [INFO ] │  [2/20] Pan Emirates ⭐
+2026-03-22 04:00:21 [DEBUG]   Page 1: +0 ads [PanEmiratesFurniture/SA]
+2026-03-22 04:00:21 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:00:21 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=PanEmiratesFurniture&search_type=page
+2026-03-22 04:00:38 [INFO ]   Found 0 ad cards for "PanEmiratesFurniture" (SA)
+2026-03-22 04:00:38 [INFO ] │     → 0 screenshots | 0 ads | 16677ms
+2026-03-22 04:00:40 [INFO ] │  [3/20] Home Centre KSA ⭐
+2026-03-22 04:00:41 [DEBUG]   Page 1: +0 ads [homecentreSA/SA]
+2026-03-22 04:00:41 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:00:41 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=homecentreSA&search_type=page
+2026-03-22 04:00:57 [INFO ]   Found 0 ad cards for "homecentreSA" (SA)
+2026-03-22 04:00:57 [INFO ] │     → 0 screenshots | 0 ads | 16802ms
+2026-03-22 04:00:59 [INFO ] │  [4/20] Danube Home
+2026-03-22 04:01:01 [WARN ] MetaAPI[DanubeHome/SA] failed (attempt 1/3) — retry in 5000ms: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher
+2026-03-22 04:01:07 [WARN ] MetaAPI[DanubeHome/SA] failed (attempt 2/3) — retry in 10000ms: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher
+2026-03-22 04:01:17 [WARN ] MetaAPI[DanubeHome/SA] failed (attempt 3/3) — retry in 20000ms: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher
+2026-03-22 04:01:38 [ERROR] [KSA/Danube Home]     ✗ Fatal: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher
+2026-03-22 04:01:38 [INFO ] │     → 0 screenshots | 0 ads | 38704ms | ⚠ 1 errors
+2026-03-22 04:01:41 [INFO ] │  [5/20] Marina Home
+2026-03-22 04:01:41 [DEBUG]   Page 1: +0 ads [MarinHomeInteriors/SA]
+2026-03-22 04:01:41 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:01:41 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=MarinHomeInteriors&search_type=page
+2026-03-22 04:01:57 [INFO ]   Found 0 ad cards for "MarinHomeInteriors" (SA)
+2026-03-22 04:01:57 [INFO ] │     → 0 screenshots | 0 ads | 16806ms
+2026-03-22 04:02:00 [INFO ] │  [6/20] Pottery Barn MENA
+2026-03-22 04:02:00 [DEBUG]   Page 1: +0 ads [PotteryBarnMENA/SA]
+2026-03-22 04:02:00 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:02:00 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=PotteryBarnMENA&search_type=page
+2026-03-22 04:02:17 [INFO ]   Found 0 ad cards for "PotteryBarnMENA" (SA)
+2026-03-22 04:02:17 [INFO ] │     → 0 screenshots | 0 ads | 16825ms
+2026-03-22 04:02:19 [INFO ] │  [7/20] West Elm MENA
+2026-03-22 04:02:20 [DEBUG]   Page 1: +0 ads [WestElmMENA/SA]
+2026-03-22 04:02:20 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:02:20 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=WestElmMENA&search_type=page
+2026-03-22 04:02:36 [INFO ]   Found 0 ad cards for "WestElmMENA" (SA)
+2026-03-22 04:02:36 [INFO ] │     → 0 screenshots | 0 ads | 16856ms
+2026-03-22 04:02:39 [INFO ] │  [8/20] BoConcept KSA
+2026-03-22 04:02:40 [WARN ] MetaAPI[BoConcept/SA] failed (attempt 1/3) — retry in 5000ms: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher
+2026-03-22 04:02:46 [WARN ] MetaAPI[BoConcept/SA] failed (attempt 2/3) — retry in 10000ms: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher
+2026-03-22 04:02:56 [WARN ] MetaAPI[BoConcept/SA] failed (attempt 3/3) — retry in 20000ms: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher
+2026-03-22 04:03:17 [ERROR] [KSA/BoConcept KSA]     ✗ Fatal: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher
+2026-03-22 04:03:17 [INFO ] │     → 0 screenshots | 0 ads | 38431ms | ⚠ 1 errors
+2026-03-22 04:03:20 [INFO ] │  [9/20] JYSK Saudi
+2026-03-22 04:03:22 [DEBUG]   Page 1: +0 ads [JYSKSaudi/SA]
+2026-03-22 04:03:22 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:03:22 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=JYSKSaudi&search_type=page
+2026-03-22 04:03:38 [INFO ]   Found 0 ad cards for "JYSKSaudi" (SA)
+2026-03-22 04:03:38 [INFO ] │     → 0 screenshots | 0 ads | 18905ms
+2026-03-22 04:03:41 [INFO ] │  [10/20] IDdesign
+2026-03-22 04:03:41 [DEBUG]   Page 1: +0 ads [IDdesignMENA/SA]
+2026-03-22 04:03:41 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:03:41 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=IDdesignMENA&search_type=page
+2026-03-22 04:03:59 [INFO ]   Found 0 ad cards for "IDdesignMENA" (SA)
+2026-03-22 04:03:59 [INFO ] │     → 0 screenshots | 0 ads | 17658ms
+2026-03-22 04:04:01 [INFO ] │  [11/20] Homes R Us
+2026-03-22 04:04:02 [DEBUG]   Page 1: +0 ads [HomesRUsOfficial/SA]
+2026-03-22 04:04:02 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:04:02 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=HomesRUsOfficial&search_type=page
+2026-03-22 04:04:18 [INFO ]   Found 0 ad cards for "HomesRUsOfficial" (SA)
+2026-03-22 04:04:18 [INFO ] │     → 0 screenshots | 0 ads | 16946ms
+2026-03-22 04:04:21 [INFO ] │  [12/20] The One KSA
+2026-03-22 04:04:21 [DEBUG]   Page 1: +0 ads [theonelifestyle/SA]
+2026-03-22 04:04:21 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:04:21 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=theonelifestyle&search_type=page
+2026-03-22 04:04:38 [INFO ]   Found 0 ad cards for "theonelifestyle" (SA)
+2026-03-22 04:04:38 [INFO ] │     → 0 screenshots | 0 ads | 17003ms
+2026-03-22 04:04:40 [INFO ] │  [13/20] Restoration Hardware
+2026-03-22 04:04:41 [DEBUG]   Page 1: +0 ads [RHRestorationHardware/SA]
+2026-03-22 04:04:41 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:04:41 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=RHRestorationHardware&search_type=page
+2026-03-22 04:04:57 [INFO ]   Found 0 ad cards for "RHRestorationHardware" (SA)
+2026-03-22 04:04:57 [INFO ] │     → 0 screenshots | 0 ads | 17217ms
+2026-03-22 04:05:00 [INFO ] │  [14/20] Crate & Barrel MENA
+2026-03-22 04:05:00 [DEBUG]   Page 1: +0 ads [CrateAndBarrelMENA/SA]
+2026-03-22 04:05:00 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:05:00 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=CrateAndBarrelMENA&search_type=page
+2026-03-22 04:05:17 [INFO ]   Found 0 ad cards for "CrateAndBarrelMENA" (SA)
+2026-03-22 04:05:17 [INFO ] │     → 0 screenshots | 0 ads | 17253ms
+2026-03-22 04:05:20 [INFO ] │  [15/20] Natuzzi Arabia
+2026-03-22 04:05:20 [DEBUG]   Page 1: +0 ads [NatuzziArabia/SA]
+2026-03-22 04:05:20 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:05:20 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=NatuzziArabia&search_type=page
+2026-03-22 04:05:36 [INFO ]   Found 0 ad cards for "NatuzziArabia" (SA)
+2026-03-22 04:05:36 [INFO ] │     → 0 screenshots | 0 ads | 16766ms
+2026-03-22 04:05:39 [INFO ] │  [16/20] Al Rugaib Furniture
+2026-03-22 04:05:41 [DEBUG]   Page 1: +0 ads [AlRugaibFurniture/SA]
+2026-03-22 04:05:41 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:05:41 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=AlRugaibFurniture&search_type=page
+2026-03-22 04:05:59 [INFO ]   Found 0 ad cards for "AlRugaibFurniture" (SA)
+2026-03-22 04:05:59 [INFO ] │     → 0 screenshots | 0 ads | 19971ms
+2026-03-22 04:06:01 [INFO ] │  [17/20] Hawa Furniture
+2026-03-22 04:06:02 [DEBUG]   Page 1: +0 ads [HawaFurnitureSA/SA]
+2026-03-22 04:06:02 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:06:02 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=HawaFurnitureSA&search_type=page
+2026-03-22 04:06:18 [INFO ]   Found 0 ad cards for "HawaFurnitureSA" (SA)
+2026-03-22 04:06:18 [INFO ] │     → 0 screenshots | 0 ads | 16978ms
+2026-03-22 04:06:21 [INFO ] │  [18/20] Harveys Furniture
+2026-03-22 04:06:21 [DEBUG]   Page 1: +0 ads [HarveysFurnitureSA/SA]
+2026-03-22 04:06:21 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:06:21 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=HarveysFurnitureSA&search_type=page
+2026-03-22 04:06:38 [INFO ]   Found 0 ad cards for "HarveysFurnitureSA" (SA)
+2026-03-22 04:06:38 [INFO ] │     → 0 screenshots | 0 ads | 16865ms
+2026-03-22 04:06:40 [INFO ] │  [19/20] Ashley Furniture KSA
+2026-03-22 04:06:41 [DEBUG]   Page 1: +0 ads [AshleyFurnitureSA/SA]
+2026-03-22 04:06:41 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:06:41 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=AshleyFurnitureSA&search_type=page
+2026-03-22 04:06:57 [INFO ]   Found 0 ad cards for "AshleyFurnitureSA" (SA)
+2026-03-22 04:06:57 [INFO ] │     → 0 screenshots | 0 ads | 16769ms
+2026-03-22 04:06:59 [INFO ] │  [20/20] Kika Furniture KSA
+2026-03-22 04:07:00 [DEBUG]   Page 1: +0 ads [KikaFurnitureKSA/SA]
+2026-03-22 04:07:00 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:07:00 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=SA&q=KikaFurnitureKSA&search_type=page
+2026-03-22 04:07:16 [INFO ]   Found 0 ad cards for "KikaFurnitureKSA" (SA)
+2026-03-22 04:07:16 [INFO ] │     → 0 screenshots | 0 ads | 16970ms
+2026-03-22 04:07:16 [INFO ] └─ KSA complete
+2026-03-22 04:07:16 [INFO ] 
+┌─ Country: Qatar ───────────────────────────────────
+2026-03-22 04:07:16 [INFO ] │  Monitoring 20 competitors
+2026-03-22 04:07:16 [INFO ] │  [1/20] IKEA Qatar
+2026-03-22 04:07:17 [DEBUG]   Page 1: +0 ads [IKEAQatar/QA]
+2026-03-22 04:07:17 [DEBUG]     API: 0 ads — trying browser fallback
+2026-03-22 04:07:17 [DEBUG]   Browser fallback: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=QA&q=IKEAQatar&search_type=page
+2026-03-22 04:07:20 [INFO ] Midas Furniture - Ads Intelligence Monitor v1.0
+2026-03-22 04:07:20 [INFO ]     Mode:     scheduled [MORNING_PEAK]
+2026-03-22 04:07:20 [INFO ]     Schedule: 09:00 GST (morning peak)
+2026-03-22 04:07:20 [INFO ] ⏰  Scheduler: 09:00 GST (morning peak)
+2026-03-22 04:07:20 [INFO ]     Cron:     [0 5 * * *] timezone: Asia/Dubai
+2026-03-22 04:07:20 [INFO ]     Markets:  KSA → Qatar → Kuwait
+2026-03-22 04:07:20 [INFO ]     Status:   RUNNING — waiting for next trigger
+2026-03-22 04:07:20 [INFO ] Daemon running. Press Ctrl+C to stop.

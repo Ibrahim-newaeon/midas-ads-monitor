@@ -1,0 +1,78 @@
+{
+  "competitor": "West Elm Kuwait",
+  "fbPageName": "WestElmMENA",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:46.084Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034806084_0",
+      "createdAt": "2026-03-03T10:28:02.392Z",
+      "startedAt": "2026-03-18T23:22:47.276Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "16456",
+        "upper_bound": "219496"
+      },
+      "spend": {
+        "lower_bound": "111",
+        "upper_bound": "678",
+        "currency": "KWD"
+      },
+      "fundingEntity": "West Elm Kuwait"
+    },
+    {
+      "id": "ad_1774034806084_1",
+      "createdAt": "2026-03-18T08:56:12.209Z",
+      "startedAt": "2026-03-14T06:04:06.967Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "47464",
+        "upper_bound": "140888"
+      },
+      "spend": {
+        "lower_bound": "185",
+        "upper_bound": "1938",
+        "currency": "KWD"
+      },
+      "fundingEntity": "West Elm Kuwait"
+    },
+    {
+      "id": "ad_1774034806084_2",
+      "createdAt": "2026-03-01T21:02:41.300Z",
+      "startedAt": "2026-03-12T07:42:05.318Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "11531",
+        "upper_bound": "238198"
+      },
+      "spend": {
+        "lower_bound": "278",
+        "upper_bound": "2171",
+        "currency": "KWD"
+      },
+      "fundingEntity": "West Elm Kuwait"
+    },
+    {
+      "id": "ad_1774034806084_3",
+      "createdAt": "2026-03-12T06:41:16.305Z",
+      "startedAt": "2026-03-09T01:36:40.685Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "25040",
+        "upper_bound": "165727"
+      },
+      "spend": {
+        "lower_bound": "152",
+        "upper_bound": "2082",
+        "currency": "KWD"
+      },
+      "fundingEntity": "West Elm Kuwait"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "competitor": "Natuzzi Qatar",
+  "fbPageName": "NatuzziQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.194Z",
+  "adsCount": 2,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798194_0",
+      "createdAt": "2026-03-04T05:55:47.193Z",
+      "startedAt": "2026-03-16T17:37:37.137Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "57980",
+        "upper_bound": "184117"
+      },
+      "spend": {
+        "lower_bound": "404",
+        "upper_bound": "1923",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Natuzzi Qatar"
+    },
+    {
+      "id": "ad_1774034798194_1",
+      "createdAt": "2026-03-19T16:56:05.513Z",
+      "startedAt": "2026-03-12T22:02:52.794Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "23237",
+        "upper_bound": "179450"
+      },
+      "spend": {
+        "lower_bound": "540",
+        "upper_bound": "1725",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Natuzzi Qatar"
+    }
+  ]
+}

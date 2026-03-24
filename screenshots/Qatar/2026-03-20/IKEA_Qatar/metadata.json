@@ -1,0 +1,214 @@
+{
+  "competitor": "IKEA Qatar",
+  "fbPageName": "IKEAQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:37.903Z",
+  "adsCount": 12,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034797903_0",
+      "createdAt": "2026-02-21T14:45:46.841Z",
+      "startedAt": "2026-03-18T13:25:47.300Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "35263",
+        "upper_bound": "134281"
+      },
+      "spend": {
+        "lower_bound": "464",
+        "upper_bound": "1185",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_1",
+      "createdAt": "2026-03-01T21:48:53.384Z",
+      "startedAt": "2026-03-08T01:14:46.444Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "55427",
+        "upper_bound": "158237"
+      },
+      "spend": {
+        "lower_bound": "370",
+        "upper_bound": "2110",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_2",
+      "createdAt": "2026-02-21T02:44:59.422Z",
+      "startedAt": "2026-03-09T03:24:34.140Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "49857",
+        "upper_bound": "78782"
+      },
+      "spend": {
+        "lower_bound": "297",
+        "upper_bound": "2129",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_3",
+      "createdAt": "2026-03-11T00:27:13.605Z",
+      "startedAt": "2026-03-17T17:14:06.977Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "57171",
+        "upper_bound": "169350"
+      },
+      "spend": {
+        "lower_bound": "192",
+        "upper_bound": "1677",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_4",
+      "createdAt": "2026-02-26T21:28:55.455Z",
+      "startedAt": "2026-03-19T20:26:06.606Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "39836",
+        "upper_bound": "118624"
+      },
+      "spend": {
+        "lower_bound": "572",
+        "upper_bound": "1726",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_5",
+      "createdAt": "2026-02-21T23:31:02.486Z",
+      "startedAt": "2026-03-08T22:27:56.563Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "41082",
+        "upper_bound": "97712"
+      },
+      "spend": {
+        "lower_bound": "218",
+        "upper_bound": "784",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_6",
+      "createdAt": "2026-02-28T07:52:10.419Z",
+      "startedAt": "2026-03-07T12:16:58.655Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "57872",
+        "upper_bound": "146301"
+      },
+      "spend": {
+        "lower_bound": "534",
+        "upper_bound": "1790",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_7",
+      "createdAt": "2026-03-19T02:58:25.970Z",
+      "startedAt": "2026-03-19T23:21:13.789Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_7",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "43756",
+        "upper_bound": "165111"
+      },
+      "spend": {
+        "lower_bound": "401",
+        "upper_bound": "1825",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_8",
+      "createdAt": "2026-02-18T20:16:36.717Z",
+      "startedAt": "2026-03-20T05:32:30.889Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_8",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "26753",
+        "upper_bound": "200871"
+      },
+      "spend": {
+        "lower_bound": "215",
+        "upper_bound": "1428",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_9",
+      "createdAt": "2026-02-27T00:32:21.095Z",
+      "startedAt": "2026-03-09T10:29:00.944Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_9",
+      "body": "🛋️ Discover our latest bedroom set collection.",
+      "impressions": {
+        "lower_bound": "30829",
+        "upper_bound": "156411"
+      },
+      "spend": {
+        "lower_bound": "119",
+        "upper_bound": "521",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_10",
+      "createdAt": "2026-03-05T17:13:13.618Z",
+      "startedAt": "2026-03-13T00:42:07.930Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_10",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "30156",
+        "upper_bound": "236767"
+      },
+      "spend": {
+        "lower_bound": "193",
+        "upper_bound": "1913",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    },
+    {
+      "id": "ad_1774034797903_11",
+      "createdAt": "2026-02-27T21:57:21.572Z",
+      "startedAt": "2026-03-12T22:41:54.620Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_11",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "35281",
+        "upper_bound": "121390"
+      },
+      "spend": {
+        "lower_bound": "228",
+        "upper_bound": "990",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IKEA Qatar"
+    }
+  ]
+}

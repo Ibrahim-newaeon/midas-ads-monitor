@@ -1,0 +1,44 @@
+# /etc/systemd/system/midas-monitor.service
+# Install:
+#   sudo cp midas-monitor.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable midas-monitor
+#   sudo systemctl start midas-monitor
+#   sudo systemctl status midas-monitor
+#   journalctl -u midas-monitor -f
+
+[Unit]
+Description=Midas Furniture — Meta Ads Intelligence Monitor
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=midas
+Group=midas
+WorkingDirectory=/opt/midas-monitor
+
+# Load secrets from env file (never commit this file)
+EnvironmentFile=/opt/midas-monitor/.env
+
+ExecStart=/usr/bin/node dist/index.js
+ExecStop=/bin/kill -SIGTERM $MAINPID
+
+# Auto-restart on failure
+Restart=on-failure
+RestartSec=30
+StartLimitIntervalSec=300
+StartLimitBurst=5
+
+# Security hardening
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=midas-monitor
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,78 @@
+{
+  "competitor": "Crate & Barrel Qatar",
+  "fbPageName": "CrateAndBarrelMENA",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.094Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798094_0",
+      "createdAt": "2026-02-28T03:38:04.119Z",
+      "startedAt": "2026-03-12T22:03:49.232Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "51395",
+        "upper_bound": "198164"
+      },
+      "spend": {
+        "lower_bound": "411",
+        "upper_bound": "2305",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Crate & Barrel Qatar"
+    },
+    {
+      "id": "ad_1774034798094_1",
+      "createdAt": "2026-03-15T15:42:24.032Z",
+      "startedAt": "2026-03-10T22:02:20.147Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "11423",
+        "upper_bound": "154518"
+      },
+      "spend": {
+        "lower_bound": "246",
+        "upper_bound": "718",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Crate & Barrel Qatar"
+    },
+    {
+      "id": "ad_1774034798094_2",
+      "createdAt": "2026-03-10T17:47:27.446Z",
+      "startedAt": "2026-03-19T10:45:43.987Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "28686",
+        "upper_bound": "90361"
+      },
+      "spend": {
+        "lower_bound": "324",
+        "upper_bound": "2054",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Crate & Barrel Qatar"
+    },
+    {
+      "id": "ad_1774034798094_3",
+      "createdAt": "2026-02-27T09:50:33.983Z",
+      "startedAt": "2026-03-16T08:45:27.586Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "24325",
+        "upper_bound": "63336"
+      },
+      "spend": {
+        "lower_bound": "268",
+        "upper_bound": "1869",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Crate & Barrel Qatar"
+    }
+  ]
+}

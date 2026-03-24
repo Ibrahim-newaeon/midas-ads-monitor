@@ -1,0 +1,226 @@
+{
+  "country": "KSA",
+  "date": "2026-03-21",
+  "results": [
+    {
+      "country": "KSA",
+      "competitor": "IKEA Saudi Arabia",
+      "fbPageName": "IKEASaudiArabia",
+      "isPriority": true,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 15959,
+      "capturedAt": "2026-03-21T01:00:17.738Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Pan Emirates",
+      "fbPageName": "PanEmiratesFurniture",
+      "isPriority": true,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16400,
+      "capturedAt": "2026-03-21T01:00:36.639Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Home Centre KSA",
+      "fbPageName": "homecentreSA",
+      "isPriority": true,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16357,
+      "capturedAt": "2026-03-21T01:00:55.509Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Danube Home",
+      "fbPageName": "DanubeHome",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16551,
+      "capturedAt": "2026-03-21T01:01:14.573Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Marina Home",
+      "fbPageName": "MarinHomeInteriors",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16560,
+      "capturedAt": "2026-03-21T01:01:33.643Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Pottery Barn MENA",
+      "fbPageName": "PotteryBarnMENA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16495,
+      "capturedAt": "2026-03-21T01:01:52.646Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "West Elm MENA",
+      "fbPageName": "WestElmMENA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16338,
+      "capturedAt": "2026-03-21T01:02:11.488Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "BoConcept KSA",
+      "fbPageName": "BoConcept",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16825,
+      "capturedAt": "2026-03-21T01:02:30.814Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "JYSK Saudi",
+      "fbPageName": "JYSKSaudi",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16904,
+      "capturedAt": "2026-03-21T01:02:50.226Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "IDdesign",
+      "fbPageName": "IDdesignMENA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 17483,
+      "capturedAt": "2026-03-21T01:03:10.217Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Homes R Us",
+      "fbPageName": "HomesRUsOfficial",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16428,
+      "capturedAt": "2026-03-21T01:03:29.149Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "The One KSA",
+      "fbPageName": "theonelifestyle",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16297,
+      "capturedAt": "2026-03-21T01:03:47.954Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Restoration Hardware",
+      "fbPageName": "RHRestorationHardware",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16342,
+      "capturedAt": "2026-03-21T01:04:06.801Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Crate & Barrel MENA",
+      "fbPageName": "CrateAndBarrelMENA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16503,
+      "capturedAt": "2026-03-21T01:04:25.807Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Natuzzi Arabia",
+      "fbPageName": "NatuzziArabia",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16312,
+      "capturedAt": "2026-03-21T01:04:44.631Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Al Rugaib Furniture",
+      "fbPageName": "AlRugaibFurniture",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16874,
+      "capturedAt": "2026-03-21T01:05:04.009Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Hawa Furniture",
+      "fbPageName": "HawaFurnitureSA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16285,
+      "capturedAt": "2026-03-21T01:05:22.806Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Harveys Furniture",
+      "fbPageName": "HarveysFurnitureSA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16423,
+      "capturedAt": "2026-03-21T01:05:41.741Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Ashley Furniture KSA",
+      "fbPageName": "AshleyFurnitureSA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16350,
+      "capturedAt": "2026-03-21T01:06:00.606Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Kika Furniture KSA",
+      "fbPageName": "KikaFurnitureKSA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16342,
+      "capturedAt": "2026-03-21T01:06:19.453Z"
+    }
+  ]
+}

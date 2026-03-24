@@ -1,0 +1,129 @@
+{
+  "competitor": "Ashley Furniture QA",
+  "fbPageName": "AshleyFurnitureQA",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.177Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798177_0",
+      "createdAt": "2026-02-25T09:07:39.970Z",
+      "startedAt": "2026-03-20T14:09:47.923Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "47783",
+        "upper_bound": "178889"
+      },
+      "spend": {
+        "lower_bound": "259",
+        "upper_bound": "2286",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Ashley Furniture QA"
+    },
+    {
+      "id": "ad_1774034798177_1",
+      "createdAt": "2026-03-18T11:19:54.523Z",
+      "startedAt": "2026-03-19T03:28:01.795Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "56536",
+        "upper_bound": "203152"
+      },
+      "spend": {
+        "lower_bound": "186",
+        "upper_bound": "1323",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Ashley Furniture QA"
+    },
+    {
+      "id": "ad_1774034798177_2",
+      "createdAt": "2026-02-19T19:49:56.679Z",
+      "startedAt": "2026-03-12T04:26:08.862Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "51924",
+        "upper_bound": "159267"
+      },
+      "spend": {
+        "lower_bound": "333",
+        "upper_bound": "1178",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Ashley Furniture QA"
+    },
+    {
+      "id": "ad_1774034798177_3",
+      "createdAt": "2026-03-16T08:27:53.671Z",
+      "startedAt": "2026-03-19T17:28:19.419Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "48061",
+        "upper_bound": "158042"
+      },
+      "spend": {
+        "lower_bound": "266",
+        "upper_bound": "2153",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Ashley Furniture QA"
+    },
+    {
+      "id": "ad_1774034798177_4",
+      "createdAt": "2026-02-21T15:17:41.521Z",
+      "startedAt": "2026-03-17T22:27:46.607Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "42198",
+        "upper_bound": "229024"
+      },
+      "spend": {
+        "lower_bound": "475",
+        "upper_bound": "706",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Ashley Furniture QA"
+    },
+    {
+      "id": "ad_1774034798177_5",
+      "createdAt": "2026-02-26T17:02:19.171Z",
+      "startedAt": "2026-03-09T22:50:51.304Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "18429",
+        "upper_bound": "181815"
+      },
+      "spend": {
+        "lower_bound": "127",
+        "upper_bound": "2382",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Ashley Furniture QA"
+    },
+    {
+      "id": "ad_1774034798177_6",
+      "createdAt": "2026-03-12T12:14:01.868Z",
+      "startedAt": "2026-03-13T05:26:02.286Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "56031",
+        "upper_bound": "98012"
+      },
+      "spend": {
+        "lower_bound": "189",
+        "upper_bound": "1322",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Ashley Furniture QA"
+    }
+  ]
+}

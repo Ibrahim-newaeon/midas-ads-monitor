@@ -1,0 +1,129 @@
+{
+  "competitor": "IDdesign Qatar",
+  "fbPageName": "IDdesignQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.085Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798085_0",
+      "createdAt": "2026-03-13T13:48:16.370Z",
+      "startedAt": "2026-03-12T08:44:05.750Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "18325",
+        "upper_bound": "171177"
+      },
+      "spend": {
+        "lower_bound": "489",
+        "upper_bound": "1362",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IDdesign Qatar"
+    },
+    {
+      "id": "ad_1774034798085_1",
+      "createdAt": "2026-03-12T11:39:50.941Z",
+      "startedAt": "2026-03-20T11:43:52.196Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "51566",
+        "upper_bound": "175578"
+      },
+      "spend": {
+        "lower_bound": "585",
+        "upper_bound": "2195",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IDdesign Qatar"
+    },
+    {
+      "id": "ad_1774034798085_2",
+      "createdAt": "2026-02-20T03:28:23.186Z",
+      "startedAt": "2026-03-10T18:32:33.433Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "28193",
+        "upper_bound": "232362"
+      },
+      "spend": {
+        "lower_bound": "450",
+        "upper_bound": "952",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IDdesign Qatar"
+    },
+    {
+      "id": "ad_1774034798085_3",
+      "createdAt": "2026-03-05T01:42:09.120Z",
+      "startedAt": "2026-03-14T11:46:27.117Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "44461",
+        "upper_bound": "249750"
+      },
+      "spend": {
+        "lower_bound": "376",
+        "upper_bound": "2093",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IDdesign Qatar"
+    },
+    {
+      "id": "ad_1774034798085_4",
+      "createdAt": "2026-02-27T19:44:26.772Z",
+      "startedAt": "2026-03-20T00:53:29.520Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "51739",
+        "upper_bound": "189165"
+      },
+      "spend": {
+        "lower_bound": "319",
+        "upper_bound": "1247",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IDdesign Qatar"
+    },
+    {
+      "id": "ad_1774034798085_5",
+      "createdAt": "2026-02-22T01:36:04.568Z",
+      "startedAt": "2026-03-08T04:43:10.798Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "44171",
+        "upper_bound": "222023"
+      },
+      "spend": {
+        "lower_bound": "426",
+        "upper_bound": "755",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IDdesign Qatar"
+    },
+    {
+      "id": "ad_1774034798085_6",
+      "createdAt": "2026-02-24T20:18:08.331Z",
+      "startedAt": "2026-03-12T03:40:54.370Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "25311",
+        "upper_bound": "76356"
+      },
+      "spend": {
+        "lower_bound": "174",
+        "upper_bound": "931",
+        "currency": "QAR"
+      },
+      "fundingEntity": "IDdesign Qatar"
+    }
+  ]
+}

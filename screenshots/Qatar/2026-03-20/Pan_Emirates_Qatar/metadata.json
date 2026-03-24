@@ -1,0 +1,129 @@
+{
+  "competitor": "Pan Emirates Qatar",
+  "fbPageName": "PanEmiratesQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:37.922Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034797922_0",
+      "createdAt": "2026-02-23T14:34:41.563Z",
+      "startedAt": "2026-03-12T04:18:26.973Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "47805",
+        "upper_bound": "198280"
+      },
+      "spend": {
+        "lower_bound": "133",
+        "upper_bound": "1368",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pan Emirates Qatar"
+    },
+    {
+      "id": "ad_1774034797922_1",
+      "createdAt": "2026-02-21T06:47:17.467Z",
+      "startedAt": "2026-03-08T00:01:45.613Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "49576",
+        "upper_bound": "248308"
+      },
+      "spend": {
+        "lower_bound": "399",
+        "upper_bound": "1220",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pan Emirates Qatar"
+    },
+    {
+      "id": "ad_1774034797922_2",
+      "createdAt": "2026-02-21T23:55:47.639Z",
+      "startedAt": "2026-03-20T15:15:49.712Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "35764",
+        "upper_bound": "192807"
+      },
+      "spend": {
+        "lower_bound": "568",
+        "upper_bound": "2491",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pan Emirates Qatar"
+    },
+    {
+      "id": "ad_1774034797922_3",
+      "createdAt": "2026-03-11T12:13:30.596Z",
+      "startedAt": "2026-03-07T13:06:37.929Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "27123",
+        "upper_bound": "130421"
+      },
+      "spend": {
+        "lower_bound": "181",
+        "upper_bound": "2349",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pan Emirates Qatar"
+    },
+    {
+      "id": "ad_1774034797922_4",
+      "createdAt": "2026-03-08T02:20:54.909Z",
+      "startedAt": "2026-03-19T19:39:54.128Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "15443",
+        "upper_bound": "143739"
+      },
+      "spend": {
+        "lower_bound": "424",
+        "upper_bound": "1823",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pan Emirates Qatar"
+    },
+    {
+      "id": "ad_1774034797922_5",
+      "createdAt": "2026-02-26T04:07:02.438Z",
+      "startedAt": "2026-03-11T13:29:21.495Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "19375",
+        "upper_bound": "221682"
+      },
+      "spend": {
+        "lower_bound": "312",
+        "upper_bound": "644",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pan Emirates Qatar"
+    },
+    {
+      "id": "ad_1774034797922_6",
+      "createdAt": "2026-03-19T22:42:34.636Z",
+      "startedAt": "2026-03-10T06:36:47.330Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "37779",
+        "upper_bound": "50060"
+      },
+      "spend": {
+        "lower_bound": "184",
+        "upper_bound": "700",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pan Emirates Qatar"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "competitor": "Ashley Furniture KSA",
+  "fbPageName": "AshleyFurnitureSA",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.697Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986697_0",
+      "createdAt": "2026-03-18T05:52:18.073Z",
+      "startedAt": "2026-03-09T05:40:48.493Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "43787",
+        "upper_bound": "241653"
+      },
+      "spend": {
+        "lower_bound": "489",
+        "upper_bound": "1628",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Ashley Furniture KSA"
+    },
+    {
+      "id": "ad_1774034986697_1",
+      "createdAt": "2026-03-08T07:36:26.868Z",
+      "startedAt": "2026-03-18T22:32:35.613Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "50487",
+        "upper_bound": "57363"
+      },
+      "spend": {
+        "lower_bound": "290",
+        "upper_bound": "919",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Ashley Furniture KSA"
+    },
+    {
+      "id": "ad_1774034986697_2",
+      "createdAt": "2026-03-08T11:59:53.276Z",
+      "startedAt": "2026-03-14T08:32:16.890Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "52264",
+        "upper_bound": "160233"
+      },
+      "spend": {
+        "lower_bound": "542",
+        "upper_bound": "1569",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Ashley Furniture KSA"
+    },
+    {
+      "id": "ad_1774034986697_3",
+      "createdAt": "2026-02-21T06:35:05.783Z",
+      "startedAt": "2026-03-18T04:14:35.190Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "36024",
+        "upper_bound": "124767"
+      },
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "1381",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Ashley Furniture KSA"
+    },
+    {
+      "id": "ad_1774034986697_4",
+      "createdAt": "2026-03-09T08:11:48.986Z",
+      "startedAt": "2026-03-15T12:02:17.915Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "16345",
+        "upper_bound": "211720"
+      },
+      "spend": {
+        "lower_bound": "597",
+        "upper_bound": "568",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Ashley Furniture KSA"
+    },
+    {
+      "id": "ad_1774034986697_5",
+      "createdAt": "2026-02-23T04:31:25.931Z",
+      "startedAt": "2026-03-14T11:34:15.743Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "11423",
+        "upper_bound": "73519"
+      },
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "2096",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Ashley Furniture KSA"
+    },
+    {
+      "id": "ad_1774034986697_6",
+      "createdAt": "2026-03-01T01:00:59.886Z",
+      "startedAt": "2026-03-16T13:41:26.413Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "45562",
+        "upper_bound": "210029"
+      },
+      "spend": {
+        "lower_bound": "516",
+        "upper_bound": "557",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Ashley Furniture KSA"
+    }
+  ]
+}

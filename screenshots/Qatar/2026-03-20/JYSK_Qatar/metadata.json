@@ -1,0 +1,214 @@
+{
+  "competitor": "JYSK Qatar",
+  "fbPageName": "JYSKQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.112Z",
+  "adsCount": 12,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798112_0",
+      "createdAt": "2026-03-04T18:48:07.759Z",
+      "startedAt": "2026-03-16T21:16:49.486Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "17627",
+        "upper_bound": "157484"
+      },
+      "spend": {
+        "lower_bound": "124",
+        "upper_bound": "1099",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_1",
+      "createdAt": "2026-02-24T14:40:40.748Z",
+      "startedAt": "2026-03-18T19:53:31.937Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "17193",
+        "upper_bound": "209466"
+      },
+      "spend": {
+        "lower_bound": "590",
+        "upper_bound": "562",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_2",
+      "createdAt": "2026-02-20T04:57:50.318Z",
+      "startedAt": "2026-03-20T12:27:46.128Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "53016",
+        "upper_bound": "56039"
+      },
+      "spend": {
+        "lower_bound": "469",
+        "upper_bound": "1880",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_3",
+      "createdAt": "2026-03-13T20:15:40.829Z",
+      "startedAt": "2026-03-15T16:03:39.585Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "31089",
+        "upper_bound": "109024"
+      },
+      "spend": {
+        "lower_bound": "260",
+        "upper_bound": "2068",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_4",
+      "createdAt": "2026-02-28T16:13:25.450Z",
+      "startedAt": "2026-03-10T16:09:56.283Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "24484",
+        "upper_bound": "155759"
+      },
+      "spend": {
+        "lower_bound": "518",
+        "upper_bound": "581",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_5",
+      "createdAt": "2026-03-12T11:24:55.923Z",
+      "startedAt": "2026-03-09T04:52:01.822Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "40124",
+        "upper_bound": "50177"
+      },
+      "spend": {
+        "lower_bound": "501",
+        "upper_bound": "1510",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_6",
+      "createdAt": "2026-03-10T10:19:06.425Z",
+      "startedAt": "2026-03-11T03:52:58.305Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "17564",
+        "upper_bound": "194068"
+      },
+      "spend": {
+        "lower_bound": "122",
+        "upper_bound": "1297",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_7",
+      "createdAt": "2026-02-25T20:25:06.838Z",
+      "startedAt": "2026-03-17T22:53:14.645Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_7",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "56631",
+        "upper_bound": "72627"
+      },
+      "spend": {
+        "lower_bound": "356",
+        "upper_bound": "1076",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_8",
+      "createdAt": "2026-02-28T06:55:11.746Z",
+      "startedAt": "2026-03-09T07:00:58.403Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_8",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "53188",
+        "upper_bound": "93137"
+      },
+      "spend": {
+        "lower_bound": "285",
+        "upper_bound": "1019",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_9",
+      "createdAt": "2026-02-20T13:19:02.847Z",
+      "startedAt": "2026-03-18T06:30:02.897Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_9",
+      "body": "🛋️ Discover our latest bedroom set collection.",
+      "impressions": {
+        "lower_bound": "20656",
+        "upper_bound": "143327"
+      },
+      "spend": {
+        "lower_bound": "549",
+        "upper_bound": "2070",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_10",
+      "createdAt": "2026-03-14T19:44:06.974Z",
+      "startedAt": "2026-03-11T13:27:38.503Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_10",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "20130",
+        "upper_bound": "99665"
+      },
+      "spend": {
+        "lower_bound": "413",
+        "upper_bound": "1001",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    },
+    {
+      "id": "ad_1774034798112_11",
+      "createdAt": "2026-03-15T17:49:25.465Z",
+      "startedAt": "2026-03-09T16:13:50.386Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_11",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "43314",
+        "upper_bound": "95430"
+      },
+      "spend": {
+        "lower_bound": "434",
+        "upper_bound": "1189",
+        "currency": "QAR"
+      },
+      "fundingEntity": "JYSK Qatar"
+    }
+  ]
+}

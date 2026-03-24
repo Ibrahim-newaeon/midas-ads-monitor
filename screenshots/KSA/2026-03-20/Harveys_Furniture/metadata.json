@@ -1,0 +1,129 @@
+{
+  "competitor": "Harveys Furniture",
+  "fbPageName": "HarveysFurnitureSA",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.688Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986688_0",
+      "createdAt": "2026-03-18T22:22:03.175Z",
+      "startedAt": "2026-03-13T06:35:45.149Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "51287",
+        "upper_bound": "51246"
+      },
+      "spend": {
+        "lower_bound": "295",
+        "upper_bound": "2265",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Harveys Furniture"
+    },
+    {
+      "id": "ad_1774034986688_1",
+      "createdAt": "2026-03-07T20:09:56.055Z",
+      "startedAt": "2026-03-10T03:03:44.341Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "41891",
+        "upper_bound": "188153"
+      },
+      "spend": {
+        "lower_bound": "221",
+        "upper_bound": "1200",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Harveys Furniture"
+    },
+    {
+      "id": "ad_1774034986688_2",
+      "createdAt": "2026-02-27T04:21:29.026Z",
+      "startedAt": "2026-03-07T05:15:40.873Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "22223",
+        "upper_bound": "231639"
+      },
+      "spend": {
+        "lower_bound": "508",
+        "upper_bound": "1797",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Harveys Furniture"
+    },
+    {
+      "id": "ad_1774034986688_3",
+      "createdAt": "2026-03-19T15:04:15.379Z",
+      "startedAt": "2026-03-11T14:47:52.917Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "35636",
+        "upper_bound": "110925"
+      },
+      "spend": {
+        "lower_bound": "205",
+        "upper_bound": "777",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Harveys Furniture"
+    },
+    {
+      "id": "ad_1774034986688_4",
+      "createdAt": "2026-03-07T13:55:06.654Z",
+      "startedAt": "2026-03-18T10:47:18.588Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "59375",
+        "upper_bound": "151318"
+      },
+      "spend": {
+        "lower_bound": "189",
+        "upper_bound": "2336",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Harveys Furniture"
+    },
+    {
+      "id": "ad_1774034986688_5",
+      "createdAt": "2026-03-14T07:28:10.216Z",
+      "startedAt": "2026-03-09T19:55:42.711Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "48664",
+        "upper_bound": "149087"
+      },
+      "spend": {
+        "lower_bound": "300",
+        "upper_bound": "2360",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Harveys Furniture"
+    },
+    {
+      "id": "ad_1774034986689_6",
+      "createdAt": "2026-03-10T22:07:11.539Z",
+      "startedAt": "2026-03-19T13:36:30.461Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "11428",
+        "upper_bound": "229803"
+      },
+      "spend": {
+        "lower_bound": "537",
+        "upper_bound": "750",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Harveys Furniture"
+    }
+  ]
+}

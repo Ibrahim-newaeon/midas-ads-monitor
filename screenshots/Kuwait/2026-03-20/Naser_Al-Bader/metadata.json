@@ -1,0 +1,61 @@
+{
+  "competitor": "Naser Al-Bader",
+  "fbPageName": "NaserAlBaderKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:46.094Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034806094_0",
+      "createdAt": "2026-03-14T13:38:40.789Z",
+      "startedAt": "2026-03-08T16:12:26.893Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "20259",
+        "upper_bound": "212117"
+      },
+      "spend": {
+        "lower_bound": "447",
+        "upper_bound": "1803",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Naser Al-Bader"
+    },
+    {
+      "id": "ad_1774034806094_1",
+      "createdAt": "2026-03-01T19:43:06.322Z",
+      "startedAt": "2026-03-10T14:18:26.974Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "47315",
+        "upper_bound": "83063"
+      },
+      "spend": {
+        "lower_bound": "473",
+        "upper_bound": "566",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Naser Al-Bader"
+    },
+    {
+      "id": "ad_1774034806094_2",
+      "createdAt": "2026-03-10T05:08:55.615Z",
+      "startedAt": "2026-03-11T13:36:30.253Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "22192",
+        "upper_bound": "248015"
+      },
+      "spend": {
+        "lower_bound": "299",
+        "upper_bound": "1537",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Naser Al-Bader"
+    }
+  ]
+}

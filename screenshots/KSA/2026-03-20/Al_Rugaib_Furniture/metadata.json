@@ -1,0 +1,61 @@
+{
+  "competitor": "Al Rugaib Furniture",
+  "fbPageName": "AlRugaibFurniture",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.680Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986680_0",
+      "createdAt": "2026-02-23T20:27:51.854Z",
+      "startedAt": "2026-03-12T19:58:49.843Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "59124",
+        "upper_bound": "178111"
+      },
+      "spend": {
+        "lower_bound": "378",
+        "upper_bound": "2182",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Al Rugaib Furniture"
+    },
+    {
+      "id": "ad_1774034986680_1",
+      "createdAt": "2026-02-21T14:29:43.506Z",
+      "startedAt": "2026-03-18T19:19:15.746Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "39429",
+        "upper_bound": "194301"
+      },
+      "spend": {
+        "lower_bound": "258",
+        "upper_bound": "570",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Al Rugaib Furniture"
+    },
+    {
+      "id": "ad_1774034986680_2",
+      "createdAt": "2026-03-20T18:37:30.011Z",
+      "startedAt": "2026-03-14T14:39:58.460Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "23452",
+        "upper_bound": "136545"
+      },
+      "spend": {
+        "lower_bound": "255",
+        "upper_bound": "2099",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Al Rugaib Furniture"
+    }
+  ]
+}

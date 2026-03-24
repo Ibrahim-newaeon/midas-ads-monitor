@@ -1,0 +1,214 @@
+{
+  "competitor": "IKEA Saudi Arabia",
+  "fbPageName": "IKEASaudiArabia",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.406Z",
+  "adsCount": 12,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986406_0",
+      "createdAt": "2026-03-02T09:26:05.388Z",
+      "startedAt": "2026-03-11T01:26:59.255Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "24060",
+        "upper_bound": "194093"
+      },
+      "spend": {
+        "lower_bound": "572",
+        "upper_bound": "675",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986406_1",
+      "createdAt": "2026-03-14T02:50:56.384Z",
+      "startedAt": "2026-03-11T21:03:19.221Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "32041",
+        "upper_bound": "132341"
+      },
+      "spend": {
+        "lower_bound": "268",
+        "upper_bound": "1231",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986406_2",
+      "createdAt": "2026-03-20T06:04:27.074Z",
+      "startedAt": "2026-03-18T16:23:10.064Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "29014",
+        "upper_bound": "123402"
+      },
+      "spend": {
+        "lower_bound": "143",
+        "upper_bound": "2184",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986406_3",
+      "createdAt": "2026-02-25T05:13:40.786Z",
+      "startedAt": "2026-03-08T05:46:24.207Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "30782",
+        "upper_bound": "74218"
+      },
+      "spend": {
+        "lower_bound": "577",
+        "upper_bound": "1511",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986406_4",
+      "createdAt": "2026-03-08T09:27:35.558Z",
+      "startedAt": "2026-03-09T15:22:58.820Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "50083",
+        "upper_bound": "61878"
+      },
+      "spend": {
+        "lower_bound": "442",
+        "upper_bound": "2462",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986406_5",
+      "createdAt": "2026-03-10T12:19:48.066Z",
+      "startedAt": "2026-03-07T21:31:37.619Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "48225",
+        "upper_bound": "133914"
+      },
+      "spend": {
+        "lower_bound": "558",
+        "upper_bound": "1257",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986406_6",
+      "createdAt": "2026-03-20T00:26:05.630Z",
+      "startedAt": "2026-03-08T00:20:51.684Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "18594",
+        "upper_bound": "157128"
+      },
+      "spend": {
+        "lower_bound": "142",
+        "upper_bound": "1686",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986406_7",
+      "createdAt": "2026-03-02T16:14:31.867Z",
+      "startedAt": "2026-03-07T21:27:15.814Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_7",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "37863",
+        "upper_bound": "184654"
+      },
+      "spend": {
+        "lower_bound": "425",
+        "upper_bound": "1573",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986406_8",
+      "createdAt": "2026-03-13T20:10:44.050Z",
+      "startedAt": "2026-03-19T11:56:41.163Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_8",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "37311",
+        "upper_bound": "154157"
+      },
+      "spend": {
+        "lower_bound": "339",
+        "upper_bound": "2075",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986407_9",
+      "createdAt": "2026-03-04T20:56:44.956Z",
+      "startedAt": "2026-03-12T05:28:06.731Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_9",
+      "body": "🛋️ Discover our latest bedroom set collection.",
+      "impressions": {
+        "lower_bound": "17524",
+        "upper_bound": "190799"
+      },
+      "spend": {
+        "lower_bound": "435",
+        "upper_bound": "2163",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986407_10",
+      "createdAt": "2026-03-04T19:06:07.971Z",
+      "startedAt": "2026-03-08T09:33:01.738Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_10",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "18361",
+        "upper_bound": "120621"
+      },
+      "spend": {
+        "lower_bound": "366",
+        "upper_bound": "979",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    },
+    {
+      "id": "ad_1774034986407_11",
+      "createdAt": "2026-03-16T19:02:25.813Z",
+      "startedAt": "2026-03-14T01:11:52.586Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_11",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "31495",
+        "upper_bound": "189254"
+      },
+      "spend": {
+        "lower_bound": "489",
+        "upper_bound": "2372",
+        "currency": "SAR"
+      },
+      "fundingEntity": "IKEA Saudi Arabia"
+    }
+  ]
+}

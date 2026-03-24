@@ -1,0 +1,78 @@
+{
+  "competitor": "Marina Home Qatar",
+  "fbPageName": "MarinHomeQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.014Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798014_0",
+      "createdAt": "2026-03-03T19:07:11.907Z",
+      "startedAt": "2026-03-11T07:11:13.715Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "47730",
+        "upper_bound": "177498"
+      },
+      "spend": {
+        "lower_bound": "512",
+        "upper_bound": "2387",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Marina Home Qatar"
+    },
+    {
+      "id": "ad_1774034798014_1",
+      "createdAt": "2026-03-04T04:53:19.279Z",
+      "startedAt": "2026-03-07T04:51:53.455Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "47318",
+        "upper_bound": "102949"
+      },
+      "spend": {
+        "lower_bound": "400",
+        "upper_bound": "2093",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Marina Home Qatar"
+    },
+    {
+      "id": "ad_1774034798014_2",
+      "createdAt": "2026-03-16T08:12:22.697Z",
+      "startedAt": "2026-03-16T21:26:45.265Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "59630",
+        "upper_bound": "83273"
+      },
+      "spend": {
+        "lower_bound": "165",
+        "upper_bound": "773",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Marina Home Qatar"
+    },
+    {
+      "id": "ad_1774034798014_3",
+      "createdAt": "2026-03-15T13:32:52.577Z",
+      "startedAt": "2026-03-18T04:07:12.301Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "10272",
+        "upper_bound": "236858"
+      },
+      "spend": {
+        "lower_bound": "192",
+        "upper_bound": "1941",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Marina Home Qatar"
+    }
+  ]
+}

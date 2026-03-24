@@ -1,0 +1,44 @@
+{
+  "competitor": "Restoration Hardware",
+  "fbPageName": "RHRestorationHardware",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.610Z",
+  "adsCount": 2,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986610_0",
+      "createdAt": "2026-03-08T09:14:12.376Z",
+      "startedAt": "2026-03-10T10:46:58.069Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "54202",
+        "upper_bound": "162782"
+      },
+      "spend": {
+        "lower_bound": "227",
+        "upper_bound": "1516",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Restoration Hardware"
+    },
+    {
+      "id": "ad_1774034986610_1",
+      "createdAt": "2026-03-04T17:03:16.132Z",
+      "startedAt": "2026-03-14T09:10:55.564Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "43498",
+        "upper_bound": "68340"
+      },
+      "spend": {
+        "lower_bound": "269",
+        "upper_bound": "1732",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Restoration Hardware"
+    }
+  ]
+}

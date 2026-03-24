@@ -1,0 +1,129 @@
+{
+  "competitor": "Ashley Furniture KW",
+  "fbPageName": "AshleyFurnitureKW",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:46.017Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034806018_0",
+      "createdAt": "2026-03-09T11:35:25.058Z",
+      "startedAt": "2026-03-19T21:13:30.472Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "26640",
+        "upper_bound": "62913"
+      },
+      "spend": {
+        "lower_bound": "475",
+        "upper_bound": "2385",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Ashley Furniture KW"
+    },
+    {
+      "id": "ad_1774034806018_1",
+      "createdAt": "2026-03-08T08:23:21.506Z",
+      "startedAt": "2026-03-19T15:56:44.439Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "20771",
+        "upper_bound": "103689"
+      },
+      "spend": {
+        "lower_bound": "397",
+        "upper_bound": "714",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Ashley Furniture KW"
+    },
+    {
+      "id": "ad_1774034806018_2",
+      "createdAt": "2026-03-10T20:07:51.090Z",
+      "startedAt": "2026-03-08T08:06:38.207Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "13751",
+        "upper_bound": "199140"
+      },
+      "spend": {
+        "lower_bound": "533",
+        "upper_bound": "2187",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Ashley Furniture KW"
+    },
+    {
+      "id": "ad_1774034806018_3",
+      "createdAt": "2026-02-25T17:05:42.249Z",
+      "startedAt": "2026-03-12T03:31:13.248Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "48894",
+        "upper_bound": "62421"
+      },
+      "spend": {
+        "lower_bound": "421",
+        "upper_bound": "819",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Ashley Furniture KW"
+    },
+    {
+      "id": "ad_1774034806018_4",
+      "createdAt": "2026-03-07T09:05:09.467Z",
+      "startedAt": "2026-03-11T04:21:39.902Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "22709",
+        "upper_bound": "136381"
+      },
+      "spend": {
+        "lower_bound": "289",
+        "upper_bound": "2201",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Ashley Furniture KW"
+    },
+    {
+      "id": "ad_1774034806018_5",
+      "createdAt": "2026-03-07T13:20:52.452Z",
+      "startedAt": "2026-03-17T07:38:59.310Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "25835",
+        "upper_bound": "195940"
+      },
+      "spend": {
+        "lower_bound": "497",
+        "upper_bound": "1091",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Ashley Furniture KW"
+    },
+    {
+      "id": "ad_1774034806018_6",
+      "createdAt": "2026-03-14T05:22:58.199Z",
+      "startedAt": "2026-03-07T16:27:03.664Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "26057",
+        "upper_bound": "91192"
+      },
+      "spend": {
+        "lower_bound": "553",
+        "upper_bound": "1838",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Ashley Furniture KW"
+    }
+  ]
+}
