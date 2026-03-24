@@ -1,0 +1,32 @@
+{
+  "name": "midas-ads-monitor",
+  "version": "1.0.0",
+  "description": "Midas Furniture — Meta Ads Library competitor intelligence agent",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon --exec ts-node src/index.ts",
+    "run:once": "ts-node src/index.ts --run-once",
+    "test": "playwright test",
+    "build": "tsc",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.43.0",
+    "playwright": "^1.43.0",
+    "node-cron": "^3.0.3",
+    "winston": "^3.13.0",
+    "zod": "^3.23.0",
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.5",
+    "date-fns": "^3.6.0",
+    "sharp": "^0.33.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/node-cron": "^3.0.11",
+    "typescript": "^5.4.5",
+    "ts-node": "^10.9.2",
+    "nodemon": "^3.1.0"
+  }
+}

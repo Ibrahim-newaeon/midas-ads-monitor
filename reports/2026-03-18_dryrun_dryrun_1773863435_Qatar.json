@@ -1,0 +1,242 @@
+{
+  "runId": "dryrun_1773863435",
+  "startedAt": "2026-03-18T19:50:35.275880Z",
+  "completedAt": "2026-03-18T19:50:35.275880Z",
+  "durationMs": 110812,
+  "tokenInfo": {
+    "valid": false,
+    "error": "historical dry-run"
+  },
+  "byCountry": {
+    "Qatar": {
+      "competitors": 20,
+      "adsFound": 150,
+      "screenshots": 150
+    }
+  },
+  "results": [
+    {
+      "country": "Qatar",
+      "competitor": "IKEA Qatar",
+      "fbPageName": "IKEAQatar",
+      "isPriority": false,
+      "adsFound": 3,
+      "screenshotsCaptured": 3,
+      "errors": [],
+      "durationMs": 2737,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Pan Emirates Qatar",
+      "fbPageName": "PanEmiratesQatar",
+      "isPriority": false,
+      "adsFound": 2,
+      "screenshotsCaptured": 2,
+      "errors": [],
+      "durationMs": 2570,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Home Centre Qatar",
+      "fbPageName": "HomeCentreQatar",
+      "isPriority": false,
+      "adsFound": 6,
+      "screenshotsCaptured": 6,
+      "errors": [],
+      "durationMs": 2606,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Danube Home Qatar",
+      "fbPageName": "DanubeHomeQatar",
+      "isPriority": false,
+      "adsFound": 2,
+      "screenshotsCaptured": 2,
+      "errors": [],
+      "durationMs": 1969,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Marina Home Qatar",
+      "fbPageName": "MarinaHomeQatar",
+      "isPriority": false,
+      "adsFound": 5,
+      "screenshotsCaptured": 5,
+      "errors": [],
+      "durationMs": 2766,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Pottery Barn Qatar",
+      "fbPageName": "PotteryBarnQatar",
+      "isPriority": false,
+      "adsFound": 11,
+      "screenshotsCaptured": 11,
+      "errors": [],
+      "durationMs": 1090,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "West Elm Qatar",
+      "fbPageName": "WestElmQatar",
+      "isPriority": false,
+      "adsFound": 10,
+      "screenshotsCaptured": 10,
+      "errors": [],
+      "durationMs": 2775,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Homes R Us Qatar",
+      "fbPageName": "HomesRUsQatar",
+      "isPriority": false,
+      "adsFound": 14,
+      "screenshotsCaptured": 14,
+      "errors": [],
+      "durationMs": 2480,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "The One Qatar",
+      "fbPageName": "TheOneQatar",
+      "isPriority": false,
+      "adsFound": 12,
+      "screenshotsCaptured": 12,
+      "errors": [],
+      "durationMs": 2031,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "BoConcept Qatar",
+      "fbPageName": "BoConceptQatar",
+      "isPriority": false,
+      "adsFound": 14,
+      "screenshotsCaptured": 14,
+      "errors": [],
+      "durationMs": 2424,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "IDdesign Qatar",
+      "fbPageName": "IDdesignQatar",
+      "isPriority": false,
+      "adsFound": 4,
+      "screenshotsCaptured": 4,
+      "errors": [],
+      "durationMs": 2235,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Crate Barrel Qatar",
+      "fbPageName": "CrateBarrelQatar",
+      "isPriority": false,
+      "adsFound": 4,
+      "screenshotsCaptured": 4,
+      "errors": [],
+      "durationMs": 2237,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Villaggio Home Qatar",
+      "fbPageName": "VillaggioHomeQatar",
+      "isPriority": false,
+      "adsFound": 14,
+      "screenshotsCaptured": 14,
+      "errors": [],
+      "durationMs": 1876,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Al Mana Furniture",
+      "fbPageName": "AlManaFurniture",
+      "isPriority": false,
+      "adsFound": 8,
+      "screenshotsCaptured": 8,
+      "errors": [],
+      "durationMs": 938,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Doha Furniture",
+      "fbPageName": "DohaFurniture",
+      "isPriority": false,
+      "adsFound": 9,
+      "screenshotsCaptured": 9,
+      "errors": [],
+      "durationMs": 1340,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "JYSK Qatar",
+      "fbPageName": "JYSKQatar",
+      "isPriority": false,
+      "adsFound": 6,
+      "screenshotsCaptured": 6,
+      "errors": [],
+      "durationMs": 2724,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Ashley Furniture QA",
+      "fbPageName": "AshleyFurnitureQA",
+      "isPriority": false,
+      "adsFound": 9,
+      "screenshotsCaptured": 9,
+      "errors": [],
+      "durationMs": 2870,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Harvest Home Qatar",
+      "fbPageName": "HarvestHomeQatar",
+      "isPriority": false,
+      "adsFound": 4,
+      "screenshotsCaptured": 4,
+      "errors": [],
+      "durationMs": 1105,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Natuzzi Qatar",
+      "fbPageName": "NatuzziQatar",
+      "isPriority": false,
+      "adsFound": 6,
+      "screenshotsCaptured": 6,
+      "errors": [],
+      "durationMs": 1083,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    },
+    {
+      "country": "Qatar",
+      "competitor": "Restoration Hardware",
+      "fbPageName": "RestorationHardware",
+      "isPriority": false,
+      "adsFound": 7,
+      "screenshotsCaptured": 7,
+      "errors": [],
+      "durationMs": 2268,
+      "capturedAt": "2026-03-18T19:50:35.275880Z"
+    }
+  ],
+  "totalAds": 150,
+  "totalScreenshots": 150,
+  "totalErrors": 0
+}

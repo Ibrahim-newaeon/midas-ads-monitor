@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment — NEVER commit secrets
+.env
+
+# Runtime data — too large for git
+screenshots/
+data/
+logs/
+
+# Reports — generated files (optional: keep for GitHub Pages)
+# reports/          ← commented out so reports ARE committed for GitHub Pages
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

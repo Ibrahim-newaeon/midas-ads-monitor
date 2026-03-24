@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Midas Ads Monitor — KSA 2026-03-20</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <style>
+    body { background:#f0f2f8; font-family:"Segoe UI",system-ui,sans-serif; }
+    .hero { background:linear-gradient(135deg,#0d0d1a 0%,#1a2744 55%,#0f3460 100%); color:#fff; padding:2.5rem 2rem; }
+    .hero .brand { font-size:.9rem; letter-spacing:.18em; text-transform:uppercase; color:#c9a84c; font-weight:600; }
+    .stat-card { background:#fff; border-radius:16px; box-shadow:0 2px 20px rgba(0,0,0,.07); border:none; padding:1.5rem; text-align:center; }
+    .stat-num { font-size:3rem; font-weight:800; line-height:1; }
+    .stat-label { font-size:.72rem; text-transform:uppercase; letter-spacing:.1em; color:#6c757d; margin-top:.3rem; }
+    .table thead { background:#1a2744; color:#fff; }
+    .table thead th { border:none; font-weight:500; font-size:.82rem; letter-spacing:.05em; }
+    .section-card { background:#fff; border-radius:16px; box-shadow:0 2px 20px rgba(0,0,0,.07); overflow:hidden; }
+    .section-header { background:#f8f9fa; padding:.9rem 1.5rem; font-weight:700; border-bottom:1px solid #e9ecef; font-size:.9rem; }
+    .progress-bar-ads { height:7px; border-radius:4px; background:linear-gradient(90deg,#28a745,#20c997); }
+    .bar-wrap { background:#e9ecef; border-radius:4px; height:7px; }
+    .country-pill { display:inline-block; background:#e8f4fd; color:#0f3460; border-radius:20px; padding:.2em .75em; font-size:.78rem; font-weight:600; }
+    footer { color:#adb5bd; font-size:.78rem; text-align:center; padding:2.5rem 1rem; }
+    .gold { color:#c9a84c; }
+    tr:hover td { background:#f8fbff; }
+    .priority-block { border-right:1px solid #e9ecef; }
+    .priority-block:last-child { border-right:none; }
+    @media(max-width:768px){ .priority-block { border-right:none; border-bottom:1px solid #e9ecef; } }
+  </style>
+</head>
+<body>
+
+<div class="hero mb-4">
+  <div class="container">
+    <div class="d-flex justify-content-between align-items-start flex-wrap gap-3">
+      <div>
+        <div class="brand">Midas Furniture</div>
+        <h1 class="h2 fw-bold mb-1 mt-2">Ads Intelligence Monitor</h1>
+        <p class="mb-0 opacity-75">&#127462;&#127480; Saudi Arabia — Daily Competitor Report</p>
+      </div>
+      <div class="text-end opacity-75">
+        <div class="small mb-1">Run ID: <span class="font-monospace">dryrun_1774034080140</span></div>
+        <div class="small">Captured: 2026-03-20 19:14:40 UTC</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-5">
+
+  <div class="row g-3 mb-4">
+    <div class="col-6 col-md-3">
+      <div class="stat-card">
+        <div class="stat-num text-success">119</div>
+        <div class="stat-label">Active Ads Found</div>
+      </div>
+    </div>
+    <div class="col-6 col-md-3">
+      <div class="stat-card">
+        <div class="stat-num text-primary">119</div>
+        <div class="stat-label">Screenshots Saved</div>
+      </div>
+    </div>
+    <div class="col-6 col-md-3">
+      <div class="stat-card">
+        <div class="stat-num gold">20</div>
+        <div class="stat-label">Competitors</div>
+      </div>
+    </div>
+    <div class="col-6 col-md-3">
+      <div class="stat-card">
+        <div class="stat-num text-success">0</div>
+        <div class="stat-label">Errors</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-card mb-4">
+    <div class="section-header">&#11088; KSA Priority Clients — Midas Focus</div>
+    <div class="row g-0">
+
+      <div class="col-md-4 p-4 border-end">
+        <div class="fw-bold mb-1">IKEA Saudi Arabia</div>
+        <div class="text-muted small mb-2 font-monospace">IKEASaudiArabia</div>
+        <div class="d-flex gap-4">
+          <div><span class="fw-bold text-success fs-3">12</span><div class="text-muted" style="font-size:.75rem;text-transform:uppercase;letter-spacing:.06em">active ads</div></div>
+          <div><span class="fw-bold text-primary fs-3">12</span><div class="text-muted" style="font-size:.75rem;text-transform:uppercase;letter-spacing:.06em">screenshots</div></div>
+        </div>
+      </div>
+
+      <div class="col-md-4 p-4 border-end">
+        <div class="fw-bold mb-1">Pan Emirates</div>
+        <div class="text-muted small mb-2 font-monospace">PanEmiratesFurniture</div>
+        <div class="d-flex gap-4">
+          <div><span class="fw-bold text-success fs-3">7</span><div class="text-muted" style="font-size:.75rem;text-transform:uppercase;letter-spacing:.06em">active ads</div></div>
+          <div><span class="fw-bold text-primary fs-3">7</span><div class="text-muted" style="font-size:.75rem;text-transform:uppercase;letter-spacing:.06em">screenshots</div></div>
+        </div>
+      </div>
+
+      <div class="col-md-4 p-4 border-end">
+        <div class="fw-bold mb-1">Home Centre KSA</div>
+        <div class="text-muted small mb-2 font-monospace">homecentreSA</div>
+        <div class="d-flex gap-4">
+          <div><span class="fw-bold text-success fs-3">7</span><div class="text-muted" style="font-size:.75rem;text-transform:uppercase;letter-spacing:.06em">active ads</div></div>
+          <div><span class="fw-bold text-primary fs-3">7</span><div class="text-muted" style="font-size:.75rem;text-transform:uppercase;letter-spacing:.06em">screenshots</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-card mb-4">
+    <div class="section-header">&#128202; Ad Volume by Competitor</div>
+    <div class="p-4">
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">⭐ IKEA Saudi Arabia</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:100%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">12</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">⭐ Pan Emirates</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:58%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">7</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">⭐ Home Centre KSA</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:58%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">7</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Danube Home</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:58%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">7</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Marina Home</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:33%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">4</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Pottery Barn MENA</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:33%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">4</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">West Elm MENA</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:33%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">4</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">BoConcept KSA</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:33%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">4</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">JYSK Saudi</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:100%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">12</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">IDdesign</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:58%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">7</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Homes R Us</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:58%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">7</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">The One KSA</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:33%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">4</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Restoration Hardware</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:16%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">2</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Crate & Barrel MENA</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:33%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">4</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Natuzzi Arabia</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:16%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">2</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Al Rugaib Furniture</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:25%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">3</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Hawa Furniture</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:25%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">3</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Harveys Furniture</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:58%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">7</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Ashley Furniture KSA</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:58%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">7</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center mb-3">
+        <div style="width:210px;flex-shrink:0" class="small fw-semibold text-truncate pe-2">Kika Furniture KSA</div>
+        <div class="flex-grow-1">
+          <div class="d-flex align-items-center gap-2">
+            <div class="bar-wrap flex-grow-1">
+              <div class="progress-bar-ads" style="width:100%"></div>
+            </div>
+            <span class="badge bg-success" style="min-width:32px">12</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-card">
+    <div class="section-header">&#127970; All 20 Competitors — Full Detail</div>
+    <div class="table-responsive">
+      <table class="table table-hover mb-0">
+        <thead>
+          <tr>
+            <th>Country</th>
+            <th>Competitor</th>
+            <th>Active Ads</th>
+            <th>Screenshots</th>
+            <th>Captured</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">⭐ IKEA Saudi Arabia</td>
+      <td><span class="badge bg-success">12</span></td>
+      <td>12</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">⭐ Pan Emirates</td>
+      <td><span class="badge bg-success">7</span></td>
+      <td>7</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">⭐ Home Centre KSA</td>
+      <td><span class="badge bg-success">7</span></td>
+      <td>7</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Danube Home</td>
+      <td><span class="badge bg-success">7</span></td>
+      <td>7</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Marina Home</td>
+      <td><span class="badge bg-success">4</span></td>
+      <td>4</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Pottery Barn MENA</td>
+      <td><span class="badge bg-success">4</span></td>
+      <td>4</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">West Elm MENA</td>
+      <td><span class="badge bg-success">4</span></td>
+      <td>4</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">BoConcept KSA</td>
+      <td><span class="badge bg-success">4</span></td>
+      <td>4</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">JYSK Saudi</td>
+      <td><span class="badge bg-success">12</span></td>
+      <td>12</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">IDdesign</td>
+      <td><span class="badge bg-success">7</span></td>
+      <td>7</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Homes R Us</td>
+      <td><span class="badge bg-success">7</span></td>
+      <td>7</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">The One KSA</td>
+      <td><span class="badge bg-success">4</span></td>
+      <td>4</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Restoration Hardware</td>
+      <td><span class="badge bg-success">2</span></td>
+      <td>2</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Crate & Barrel MENA</td>
+      <td><span class="badge bg-success">4</span></td>
+      <td>4</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Natuzzi Arabia</td>
+      <td><span class="badge bg-success">2</span></td>
+      <td>2</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Al Rugaib Furniture</td>
+      <td><span class="badge bg-success">3</span></td>
+      <td>3</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Hawa Furniture</td>
+      <td><span class="badge bg-success">3</span></td>
+      <td>3</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Harveys Furniture</td>
+      <td><span class="badge bg-success">7</span></td>
+      <td>7</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Ashley Furniture KSA</td>
+      <td><span class="badge bg-success">7</span></td>
+      <td>7</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+<tr>
+      <td><span class="country-pill">KSA</span></td>
+      <td class="fw-semibold">Kika Furniture KSA</td>
+      <td><span class="badge bg-success">12</span></td>
+      <td>12</td>
+      <td class="text-muted small">2026-03-20</td>
+      <td><span class="badge bg-success">OK</span></td>
+    </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  Midas Furniture Ads Intelligence Monitor &bull; Saudi Arabia Market &bull; 2026-03-20 19:14:40 UTC<br/>
+  Data sourced via Meta Ad Library API (public transparency data) &bull; 0 errors &bull; 119 screenshots captured
+</footer>
+
+</body>
+</html>

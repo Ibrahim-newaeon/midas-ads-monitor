@@ -1,0 +1,242 @@
+{
+  "runId": "dryrun_1773777035",
+  "startedAt": "2026-03-17T19:50:35.548518Z",
+  "completedAt": "2026-03-17T19:50:35.548518Z",
+  "durationMs": 179286,
+  "tokenInfo": {
+    "valid": false,
+    "error": "historical dry-run"
+  },
+  "byCountry": {
+    "Kuwait": {
+      "competitors": 20,
+      "adsFound": 117,
+      "screenshots": 117
+    }
+  },
+  "results": [
+    {
+      "country": "Kuwait",
+      "competitor": "IKEA Kuwait",
+      "fbPageName": "IKEAKuwait",
+      "isPriority": false,
+      "adsFound": 14,
+      "screenshotsCaptured": 14,
+      "errors": [],
+      "durationMs": 2147,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Pan Emirates Kuwait",
+      "fbPageName": "PanEmiratesKuwait",
+      "isPriority": false,
+      "adsFound": 8,
+      "screenshotsCaptured": 8,
+      "errors": [],
+      "durationMs": 1124,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Home Centre Kuwait",
+      "fbPageName": "HomeCentreKuwait",
+      "isPriority": false,
+      "adsFound": 4,
+      "screenshotsCaptured": 4,
+      "errors": [],
+      "durationMs": 2812,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Danube Home Kuwait",
+      "fbPageName": "DanubeHomeKuwait",
+      "isPriority": false,
+      "adsFound": 11,
+      "screenshotsCaptured": 11,
+      "errors": [],
+      "durationMs": 874,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Marina Home Kuwait",
+      "fbPageName": "MarinaHomeKuwait",
+      "isPriority": false,
+      "adsFound": 6,
+      "screenshotsCaptured": 6,
+      "errors": [],
+      "durationMs": 2300,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Homes R Us Kuwait",
+      "fbPageName": "HomesRUsKuwait",
+      "isPriority": false,
+      "adsFound": 12,
+      "screenshotsCaptured": 12,
+      "errors": [],
+      "durationMs": 1143,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "The One Kuwait",
+      "fbPageName": "TheOneKuwait",
+      "isPriority": false,
+      "adsFound": 3,
+      "screenshotsCaptured": 3,
+      "errors": [],
+      "durationMs": 1796,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "IDdesign Kuwait",
+      "fbPageName": "IDdesignKuwait",
+      "isPriority": false,
+      "adsFound": 5,
+      "screenshotsCaptured": 5,
+      "errors": [],
+      "durationMs": 1614,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "BoConcept Kuwait",
+      "fbPageName": "BoConceptKuwait",
+      "isPriority": false,
+      "adsFound": 2,
+      "screenshotsCaptured": 2,
+      "errors": [],
+      "durationMs": 2527,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "JYSK Kuwait",
+      "fbPageName": "JYSKKuwait",
+      "isPriority": false,
+      "adsFound": 4,
+      "screenshotsCaptured": 4,
+      "errors": [],
+      "durationMs": 887,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Al Hamra Furniture",
+      "fbPageName": "AlHamraFurniture",
+      "isPriority": false,
+      "adsFound": 2,
+      "screenshotsCaptured": 2,
+      "errors": [],
+      "durationMs": 2562,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Kuwait Furniture",
+      "fbPageName": "KuwaitFurniture",
+      "isPriority": false,
+      "adsFound": 3,
+      "screenshotsCaptured": 3,
+      "errors": [],
+      "durationMs": 2165,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Ashley Furniture KW",
+      "fbPageName": "AshleyFurnitureKW",
+      "isPriority": false,
+      "adsFound": 9,
+      "screenshotsCaptured": 9,
+      "errors": [],
+      "durationMs": 865,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Natuzzi Kuwait",
+      "fbPageName": "NatuzziKuwait",
+      "isPriority": false,
+      "adsFound": 3,
+      "screenshotsCaptured": 3,
+      "errors": [],
+      "durationMs": 1426,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Pottery Barn Kuwait",
+      "fbPageName": "PotteryBarnKuwait",
+      "isPriority": false,
+      "adsFound": 2,
+      "screenshotsCaptured": 2,
+      "errors": [],
+      "durationMs": 1612,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "West Elm Kuwait",
+      "fbPageName": "WestElmKuwait",
+      "isPriority": false,
+      "adsFound": 2,
+      "screenshotsCaptured": 2,
+      "errors": [],
+      "durationMs": 1610,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Crate Barrel KW",
+      "fbPageName": "CrateBarrelKW",
+      "isPriority": false,
+      "adsFound": 2,
+      "screenshotsCaptured": 2,
+      "errors": [],
+      "durationMs": 1090,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Naser Al-Bader",
+      "fbPageName": "NaserAl-Bader",
+      "isPriority": false,
+      "adsFound": 9,
+      "screenshotsCaptured": 9,
+      "errors": [],
+      "durationMs": 894,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Al Sayer Furniture",
+      "fbPageName": "AlSayerFurniture",
+      "isPriority": false,
+      "adsFound": 7,
+      "screenshotsCaptured": 7,
+      "errors": [],
+      "durationMs": 941,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    },
+    {
+      "country": "Kuwait",
+      "competitor": "Kika Furniture Kuwait",
+      "fbPageName": "KikaFurnitureKuwait",
+      "isPriority": false,
+      "adsFound": 9,
+      "screenshotsCaptured": 9,
+      "errors": [],
+      "durationMs": 2681,
+      "capturedAt": "2026-03-17T19:50:35.548518Z"
+    }
+  ],
+  "totalAds": 117,
+  "totalScreenshots": 117,
+  "totalErrors": 0
+}
