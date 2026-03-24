@@ -1,0 +1,78 @@
+{
+  "competitor": "Pottery Barn MENA",
+  "fbPageName": "PotteryBarnMENA",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.499Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986499_0",
+      "createdAt": "2026-02-19T11:41:53.526Z",
+      "startedAt": "2026-03-17T02:13:00.592Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "51123",
+        "upper_bound": "211884"
+      },
+      "spend": {
+        "lower_bound": "382",
+        "upper_bound": "1237",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pottery Barn MENA"
+    },
+    {
+      "id": "ad_1774034986499_1",
+      "createdAt": "2026-02-22T04:06:19.486Z",
+      "startedAt": "2026-03-18T22:34:41.186Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "24161",
+        "upper_bound": "150200"
+      },
+      "spend": {
+        "lower_bound": "574",
+        "upper_bound": "678",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pottery Barn MENA"
+    },
+    {
+      "id": "ad_1774034986499_2",
+      "createdAt": "2026-02-22T17:33:23.531Z",
+      "startedAt": "2026-03-09T03:20:06.191Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "30749",
+        "upper_bound": "248194"
+      },
+      "spend": {
+        "lower_bound": "294",
+        "upper_bound": "642",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pottery Barn MENA"
+    },
+    {
+      "id": "ad_1774034986499_3",
+      "createdAt": "2026-03-13T17:34:28.685Z",
+      "startedAt": "2026-03-20T02:45:05.527Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "17213",
+        "upper_bound": "60724"
+      },
+      "spend": {
+        "lower_bound": "507",
+        "upper_bound": "546",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pottery Barn MENA"
+    }
+  ]
+}

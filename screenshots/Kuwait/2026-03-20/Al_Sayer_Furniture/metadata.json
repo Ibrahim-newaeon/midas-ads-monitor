@@ -1,0 +1,61 @@
+{
+  "competitor": "Al Sayer Furniture",
+  "fbPageName": "AlSayerFurnitureKW",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:46.099Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034806099_0",
+      "createdAt": "2026-03-02T18:56:26.552Z",
+      "startedAt": "2026-03-07T23:16:01.597Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "14703",
+        "upper_bound": "134277"
+      },
+      "spend": {
+        "lower_bound": "319",
+        "upper_bound": "2453",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Al Sayer Furniture"
+    },
+    {
+      "id": "ad_1774034806099_1",
+      "createdAt": "2026-02-22T23:45:18.223Z",
+      "startedAt": "2026-03-15T13:11:08.499Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "27949",
+        "upper_bound": "197337"
+      },
+      "spend": {
+        "lower_bound": "219",
+        "upper_bound": "2260",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Al Sayer Furniture"
+    },
+    {
+      "id": "ad_1774034806099_2",
+      "createdAt": "2026-03-11T00:42:19.214Z",
+      "startedAt": "2026-03-14T23:26:20.790Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "13652",
+        "upper_bound": "120474"
+      },
+      "spend": {
+        "lower_bound": "103",
+        "upper_bound": "645",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Al Sayer Furniture"
+    }
+  ]
+}

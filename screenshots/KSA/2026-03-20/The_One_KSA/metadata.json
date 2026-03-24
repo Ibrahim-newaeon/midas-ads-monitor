@@ -1,0 +1,78 @@
+{
+  "competitor": "The One KSA",
+  "fbPageName": "theonelifestyle",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.598Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986598_0",
+      "createdAt": "2026-03-06T01:43:02.777Z",
+      "startedAt": "2026-03-10T12:26:08.334Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "52681",
+        "upper_bound": "62202"
+      },
+      "spend": {
+        "lower_bound": "508",
+        "upper_bound": "1215",
+        "currency": "SAR"
+      },
+      "fundingEntity": "The One KSA"
+    },
+    {
+      "id": "ad_1774034986598_1",
+      "createdAt": "2026-03-14T15:17:56.299Z",
+      "startedAt": "2026-03-10T17:03:59.409Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "19679",
+        "upper_bound": "235072"
+      },
+      "spend": {
+        "lower_bound": "592",
+        "upper_bound": "502",
+        "currency": "SAR"
+      },
+      "fundingEntity": "The One KSA"
+    },
+    {
+      "id": "ad_1774034986598_2",
+      "createdAt": "2026-03-08T08:15:10.270Z",
+      "startedAt": "2026-03-19T12:13:29.883Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "28164",
+        "upper_bound": "132088"
+      },
+      "spend": {
+        "lower_bound": "195",
+        "upper_bound": "1601",
+        "currency": "SAR"
+      },
+      "fundingEntity": "The One KSA"
+    },
+    {
+      "id": "ad_1774034986598_3",
+      "createdAt": "2026-02-22T08:03:42.443Z",
+      "startedAt": "2026-03-17T04:52:45.556Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "16175",
+        "upper_bound": "114449"
+      },
+      "spend": {
+        "lower_bound": "155",
+        "upper_bound": "1155",
+        "currency": "SAR"
+      },
+      "fundingEntity": "The One KSA"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "competitor": "Hawa Furniture",
+  "fbPageName": "HawaFurnitureSA",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.685Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986685_0",
+      "createdAt": "2026-03-14T04:26:47.945Z",
+      "startedAt": "2026-03-17T16:04:45.225Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "21393",
+        "upper_bound": "233043"
+      },
+      "spend": {
+        "lower_bound": "461",
+        "upper_bound": "1965",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Hawa Furniture"
+    },
+    {
+      "id": "ad_1774034986685_1",
+      "createdAt": "2026-03-07T23:21:42.390Z",
+      "startedAt": "2026-03-14T12:21:35.084Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "21955",
+        "upper_bound": "80284"
+      },
+      "spend": {
+        "lower_bound": "272",
+        "upper_bound": "1469",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Hawa Furniture"
+    },
+    {
+      "id": "ad_1774034986685_2",
+      "createdAt": "2026-03-08T05:40:31.150Z",
+      "startedAt": "2026-03-17T15:51:02.390Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "47397",
+        "upper_bound": "179137"
+      },
+      "spend": {
+        "lower_bound": "514",
+        "upper_bound": "2143",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Hawa Furniture"
+    }
+  ]
+}

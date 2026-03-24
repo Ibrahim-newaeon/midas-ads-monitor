@@ -1,0 +1,129 @@
+{
+  "competitor": "Homes R Us",
+  "fbPageName": "HomesRUsOfficial",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.589Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986589_0",
+      "createdAt": "2026-03-06T22:04:30.798Z",
+      "startedAt": "2026-03-08T10:55:41.096Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "20808",
+        "upper_bound": "168882"
+      },
+      "spend": {
+        "lower_bound": "175",
+        "upper_bound": "2024",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Homes R Us"
+    },
+    {
+      "id": "ad_1774034986589_1",
+      "createdAt": "2026-03-20T03:20:47.287Z",
+      "startedAt": "2026-03-17T12:44:32.028Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "54322",
+        "upper_bound": "145562"
+      },
+      "spend": {
+        "lower_bound": "140",
+        "upper_bound": "996",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Homes R Us"
+    },
+    {
+      "id": "ad_1774034986589_2",
+      "createdAt": "2026-03-07T22:50:43.765Z",
+      "startedAt": "2026-03-10T21:03:13.626Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "48008",
+        "upper_bound": "160918"
+      },
+      "spend": {
+        "lower_bound": "419",
+        "upper_bound": "2143",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Homes R Us"
+    },
+    {
+      "id": "ad_1774034986589_3",
+      "createdAt": "2026-03-13T18:15:29.884Z",
+      "startedAt": "2026-03-18T21:44:05.645Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "57890",
+        "upper_bound": "102950"
+      },
+      "spend": {
+        "lower_bound": "520",
+        "upper_bound": "1654",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Homes R Us"
+    },
+    {
+      "id": "ad_1774034986589_4",
+      "createdAt": "2026-03-17T15:56:28.027Z",
+      "startedAt": "2026-03-10T11:59:07.131Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "18938",
+        "upper_bound": "93137"
+      },
+      "spend": {
+        "lower_bound": "340",
+        "upper_bound": "1211",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Homes R Us"
+    },
+    {
+      "id": "ad_1774034986589_5",
+      "createdAt": "2026-03-10T15:11:56.115Z",
+      "startedAt": "2026-03-14T19:19:55.003Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "30726",
+        "upper_bound": "99832"
+      },
+      "spend": {
+        "lower_bound": "313",
+        "upper_bound": "700",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Homes R Us"
+    },
+    {
+      "id": "ad_1774034986589_6",
+      "createdAt": "2026-03-15T23:04:45.025Z",
+      "startedAt": "2026-03-17T10:05:08.679Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "33157",
+        "upper_bound": "91121"
+      },
+      "spend": {
+        "lower_bound": "452",
+        "upper_bound": "2389",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Homes R Us"
+    }
+  ]
+}

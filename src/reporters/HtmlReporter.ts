@@ -122,6 +122,7 @@ export class HtmlReporter {
     logger.info(`✓ HTML report: ${outPath}`);
     return outPath;
   }
+<<<<<<< HEAD
 
   /** Regenerate the master index.html after every run */
   async regenerateIndex(): Promise<void> {
@@ -133,4 +134,6 @@ export class HtmlReporter {
       logger.warn('Index regeneration failed: ' + (err as Error).message);
     }
   }
+=======
+>>>>>>> 04c86e18bb2ecdbbc85caa4e9f786088f001d80a
 }

@@ -1,0 +1,129 @@
+{
+  "competitor": "Pan Emirates",
+  "fbPageName": "PanEmiratesFurniture",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.424Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986424_0",
+      "createdAt": "2026-02-27T02:12:30.807Z",
+      "startedAt": "2026-03-10T06:59:45.336Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "17474",
+        "upper_bound": "76261"
+      },
+      "spend": {
+        "lower_bound": "139",
+        "upper_bound": "912",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pan Emirates"
+    },
+    {
+      "id": "ad_1774034986424_1",
+      "createdAt": "2026-03-13T03:27:48.697Z",
+      "startedAt": "2026-03-13T11:31:25.891Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "40740",
+        "upper_bound": "114008"
+      },
+      "spend": {
+        "lower_bound": "171",
+        "upper_bound": "2402",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pan Emirates"
+    },
+    {
+      "id": "ad_1774034986424_2",
+      "createdAt": "2026-03-01T11:33:48.169Z",
+      "startedAt": "2026-03-17T10:07:55.873Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "45907",
+        "upper_bound": "230641"
+      },
+      "spend": {
+        "lower_bound": "274",
+        "upper_bound": "639",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pan Emirates"
+    },
+    {
+      "id": "ad_1774034986424_3",
+      "createdAt": "2026-03-08T19:05:40.045Z",
+      "startedAt": "2026-03-08T07:28:29.422Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "12726",
+        "upper_bound": "134531"
+      },
+      "spend": {
+        "lower_bound": "549",
+        "upper_bound": "1152",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pan Emirates"
+    },
+    {
+      "id": "ad_1774034986424_4",
+      "createdAt": "2026-03-06T17:21:53.241Z",
+      "startedAt": "2026-03-14T09:57:39.134Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "40823",
+        "upper_bound": "233320"
+      },
+      "spend": {
+        "lower_bound": "575",
+        "upper_bound": "2077",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pan Emirates"
+    },
+    {
+      "id": "ad_1774034986424_5",
+      "createdAt": "2026-03-09T12:33:47.587Z",
+      "startedAt": "2026-03-11T08:06:04.742Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "27978",
+        "upper_bound": "170026"
+      },
+      "spend": {
+        "lower_bound": "132",
+        "upper_bound": "1214",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pan Emirates"
+    },
+    {
+      "id": "ad_1774034986424_6",
+      "createdAt": "2026-03-10T17:52:43.976Z",
+      "startedAt": "2026-03-16T19:49:22.319Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "38916",
+        "upper_bound": "192984"
+      },
+      "spend": {
+        "lower_bound": "553",
+        "upper_bound": "1940",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Pan Emirates"
+    }
+  ]
+}

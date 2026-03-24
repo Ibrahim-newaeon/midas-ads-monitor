@@ -1,0 +1,61 @@
+{
+  "competitor": "Villaggio Home Qatar",
+  "fbPageName": "VillaggioHomeQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.100Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798100_0",
+      "createdAt": "2026-03-03T02:03:12.026Z",
+      "startedAt": "2026-03-13T20:01:50.091Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "32930",
+        "upper_bound": "156500"
+      },
+      "spend": {
+        "lower_bound": "331",
+        "upper_bound": "2329",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Villaggio Home Qatar"
+    },
+    {
+      "id": "ad_1774034798100_1",
+      "createdAt": "2026-02-27T18:23:05.594Z",
+      "startedAt": "2026-03-08T05:22:48.686Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "27151",
+        "upper_bound": "72525"
+      },
+      "spend": {
+        "lower_bound": "537",
+        "upper_bound": "1218",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Villaggio Home Qatar"
+    },
+    {
+      "id": "ad_1774034798100_2",
+      "createdAt": "2026-03-02T06:38:13.832Z",
+      "startedAt": "2026-03-07T02:09:27.258Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "16774",
+        "upper_bound": "77517"
+      },
+      "spend": {
+        "lower_bound": "198",
+        "upper_bound": "1757",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Villaggio Home Qatar"
+    }
+  ]
+}

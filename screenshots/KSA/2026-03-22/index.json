@@ -1,0 +1,230 @@
+{
+  "country": "KSA",
+  "date": "2026-03-22",
+  "results": [
+    {
+      "country": "KSA",
+      "competitor": "IKEA Saudi Arabia",
+      "fbPageName": "IKEASaudiArabia",
+      "isPriority": true,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16715,
+      "capturedAt": "2026-03-22T01:00:18.837Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Pan Emirates",
+      "fbPageName": "PanEmiratesFurniture",
+      "isPriority": true,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16677,
+      "capturedAt": "2026-03-22T01:00:38.026Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Home Centre KSA",
+      "fbPageName": "homecentreSA",
+      "isPriority": true,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16802,
+      "capturedAt": "2026-03-22T01:00:57.340Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Danube Home",
+      "fbPageName": "DanubeHome",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [
+        "Fatal: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher"
+      ],
+      "durationMs": 38704,
+      "capturedAt": "2026-03-22T01:01:38.547Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Marina Home",
+      "fbPageName": "MarinHomeInteriors",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16806,
+      "capturedAt": "2026-03-22T01:01:57.868Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Pottery Barn MENA",
+      "fbPageName": "PotteryBarnMENA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16825,
+      "capturedAt": "2026-03-22T01:02:17.207Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "West Elm MENA",
+      "fbPageName": "WestElmMENA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16856,
+      "capturedAt": "2026-03-22T01:02:36.579Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "BoConcept KSA",
+      "fbPageName": "BoConcept",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [
+        "Fatal: (#12) funding_entity field is deprecated is deprecated for versions v13.0 and higher"
+      ],
+      "durationMs": 38431,
+      "capturedAt": "2026-03-22T01:03:17.517Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "JYSK Saudi",
+      "fbPageName": "JYSKSaudi",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 18905,
+      "capturedAt": "2026-03-22T01:03:38.934Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "IDdesign",
+      "fbPageName": "IDdesignMENA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 17658,
+      "capturedAt": "2026-03-22T01:03:59.107Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Homes R Us",
+      "fbPageName": "HomesRUsOfficial",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16946,
+      "capturedAt": "2026-03-22T01:04:18.556Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "The One KSA",
+      "fbPageName": "theonelifestyle",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 17003,
+      "capturedAt": "2026-03-22T01:04:38.068Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Restoration Hardware",
+      "fbPageName": "RHRestorationHardware",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 17217,
+      "capturedAt": "2026-03-22T01:04:57.791Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Crate & Barrel MENA",
+      "fbPageName": "CrateAndBarrelMENA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 17253,
+      "capturedAt": "2026-03-22T01:05:17.557Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Natuzzi Arabia",
+      "fbPageName": "NatuzziArabia",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16766,
+      "capturedAt": "2026-03-22T01:05:36.836Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Al Rugaib Furniture",
+      "fbPageName": "AlRugaibFurniture",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 19971,
+      "capturedAt": "2026-03-22T01:05:59.319Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Hawa Furniture",
+      "fbPageName": "HawaFurnitureSA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16978,
+      "capturedAt": "2026-03-22T01:06:18.807Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Harveys Furniture",
+      "fbPageName": "HarveysFurnitureSA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16865,
+      "capturedAt": "2026-03-22T01:06:38.177Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Ashley Furniture KSA",
+      "fbPageName": "AshleyFurnitureSA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16769,
+      "capturedAt": "2026-03-22T01:06:57.458Z"
+    },
+    {
+      "country": "KSA",
+      "competitor": "Kika Furniture KSA",
+      "fbPageName": "KikaFurnitureKSA",
+      "isPriority": false,
+      "adsFound": 0,
+      "screenshotsCaptured": 0,
+      "errors": [],
+      "durationMs": 16970,
+      "capturedAt": "2026-03-22T01:07:16.930Z"
+    }
+  ]
+}

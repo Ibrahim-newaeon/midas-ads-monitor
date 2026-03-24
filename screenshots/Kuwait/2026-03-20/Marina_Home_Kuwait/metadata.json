@@ -1,0 +1,78 @@
+{
+  "competitor": "Marina Home Kuwait",
+  "fbPageName": "MarinHomeKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.897Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805897_0",
+      "createdAt": "2026-03-18T18:08:25.837Z",
+      "startedAt": "2026-03-15T20:23:39.419Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "42008",
+        "upper_bound": "219415"
+      },
+      "spend": {
+        "lower_bound": "278",
+        "upper_bound": "2193",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Marina Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805897_1",
+      "createdAt": "2026-03-09T20:38:11.305Z",
+      "startedAt": "2026-03-11T12:00:37.921Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "44155",
+        "upper_bound": "234448"
+      },
+      "spend": {
+        "lower_bound": "427",
+        "upper_bound": "1963",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Marina Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805897_2",
+      "createdAt": "2026-03-03T21:29:34.079Z",
+      "startedAt": "2026-03-06T22:14:00.921Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "22625",
+        "upper_bound": "218265"
+      },
+      "spend": {
+        "lower_bound": "396",
+        "upper_bound": "2345",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Marina Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805898_3",
+      "createdAt": "2026-03-16T22:30:56.852Z",
+      "startedAt": "2026-03-10T03:49:19.362Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "56573",
+        "upper_bound": "93796"
+      },
+      "spend": {
+        "lower_bound": "222",
+        "upper_bound": "1895",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Marina Home Kuwait"
+    }
+  ]
+}

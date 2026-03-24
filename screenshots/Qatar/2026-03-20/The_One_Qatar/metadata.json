@@ -1,0 +1,78 @@
+{
+  "competitor": "The One Qatar",
+  "fbPageName": "theonelifestyle",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.072Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798072_0",
+      "createdAt": "2026-02-22T11:20:22.257Z",
+      "startedAt": "2026-03-17T01:42:23.995Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "56914",
+        "upper_bound": "161969"
+      },
+      "spend": {
+        "lower_bound": "190",
+        "upper_bound": "1744",
+        "currency": "QAR"
+      },
+      "fundingEntity": "The One Qatar"
+    },
+    {
+      "id": "ad_1774034798072_1",
+      "createdAt": "2026-03-13T07:35:33.071Z",
+      "startedAt": "2026-03-15T09:12:56.102Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "33114",
+        "upper_bound": "97940"
+      },
+      "spend": {
+        "lower_bound": "338",
+        "upper_bound": "1904",
+        "currency": "QAR"
+      },
+      "fundingEntity": "The One Qatar"
+    },
+    {
+      "id": "ad_1774034798072_2",
+      "createdAt": "2026-02-19T03:20:51.084Z",
+      "startedAt": "2026-03-20T10:07:24.589Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "39612",
+        "upper_bound": "116522"
+      },
+      "spend": {
+        "lower_bound": "433",
+        "upper_bound": "1387",
+        "currency": "QAR"
+      },
+      "fundingEntity": "The One Qatar"
+    },
+    {
+      "id": "ad_1774034798072_3",
+      "createdAt": "2026-02-28T21:13:14.450Z",
+      "startedAt": "2026-03-11T16:54:43.915Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "50566",
+        "upper_bound": "139084"
+      },
+      "spend": {
+        "lower_bound": "599",
+        "upper_bound": "1642",
+        "currency": "QAR"
+      },
+      "fundingEntity": "The One Qatar"
+    }
+  ]
+}

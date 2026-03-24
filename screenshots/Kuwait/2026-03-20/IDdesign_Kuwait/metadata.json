@@ -1,0 +1,129 @@
+{
+  "competitor": "IDdesign Kuwait",
+  "fbPageName": "IDdesignKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.973Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805973_0",
+      "createdAt": "2026-03-03T02:54:48.619Z",
+      "startedAt": "2026-03-20T10:07:33.563Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "58983",
+        "upper_bound": "219802"
+      },
+      "spend": {
+        "lower_bound": "423",
+        "upper_bound": "1540",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IDdesign Kuwait"
+    },
+    {
+      "id": "ad_1774034805973_1",
+      "createdAt": "2026-03-02T20:32:47.562Z",
+      "startedAt": "2026-03-19T10:03:18.209Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "43443",
+        "upper_bound": "155558"
+      },
+      "spend": {
+        "lower_bound": "495",
+        "upper_bound": "1545",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IDdesign Kuwait"
+    },
+    {
+      "id": "ad_1774034805973_2",
+      "createdAt": "2026-02-27T19:34:39.844Z",
+      "startedAt": "2026-03-13T16:54:53.720Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "44119",
+        "upper_bound": "105133"
+      },
+      "spend": {
+        "lower_bound": "353",
+        "upper_bound": "1149",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IDdesign Kuwait"
+    },
+    {
+      "id": "ad_1774034805973_3",
+      "createdAt": "2026-02-28T00:39:52.040Z",
+      "startedAt": "2026-03-17T13:12:38.763Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "41739",
+        "upper_bound": "89569"
+      },
+      "spend": {
+        "lower_bound": "102",
+        "upper_bound": "1798",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IDdesign Kuwait"
+    },
+    {
+      "id": "ad_1774034805973_4",
+      "createdAt": "2026-03-12T23:26:39.440Z",
+      "startedAt": "2026-03-20T02:22:15.996Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "13615",
+        "upper_bound": "239070"
+      },
+      "spend": {
+        "lower_bound": "305",
+        "upper_bound": "1332",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IDdesign Kuwait"
+    },
+    {
+      "id": "ad_1774034805973_5",
+      "createdAt": "2026-03-13T10:01:55.164Z",
+      "startedAt": "2026-03-11T16:22:39.385Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "20867",
+        "upper_bound": "246057"
+      },
+      "spend": {
+        "lower_bound": "572",
+        "upper_bound": "1345",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IDdesign Kuwait"
+    },
+    {
+      "id": "ad_1774034805973_6",
+      "createdAt": "2026-03-19T04:55:56.513Z",
+      "startedAt": "2026-03-09T08:05:24.002Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "39902",
+        "upper_bound": "216122"
+      },
+      "spend": {
+        "lower_bound": "178",
+        "upper_bound": "1739",
+        "currency": "KWD"
+      },
+      "fundingEntity": "IDdesign Kuwait"
+    }
+  ]
+}

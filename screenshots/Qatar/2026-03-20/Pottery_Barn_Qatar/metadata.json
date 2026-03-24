@@ -1,0 +1,78 @@
+{
+  "competitor": "Pottery Barn Qatar",
+  "fbPageName": "PotteryBarnMENA",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.018Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798018_0",
+      "createdAt": "2026-02-19T04:28:36.664Z",
+      "startedAt": "2026-03-19T13:21:48.261Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "53546",
+        "upper_bound": "216357"
+      },
+      "spend": {
+        "lower_bound": "115",
+        "upper_bound": "2171",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pottery Barn Qatar"
+    },
+    {
+      "id": "ad_1774034798018_1",
+      "createdAt": "2026-02-25T05:34:16.822Z",
+      "startedAt": "2026-03-12T08:36:05.544Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "41776",
+        "upper_bound": "166296"
+      },
+      "spend": {
+        "lower_bound": "470",
+        "upper_bound": "2211",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pottery Barn Qatar"
+    },
+    {
+      "id": "ad_1774034798018_2",
+      "createdAt": "2026-02-28T14:25:15.444Z",
+      "startedAt": "2026-03-14T23:59:36.268Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "52693",
+        "upper_bound": "165451"
+      },
+      "spend": {
+        "lower_bound": "147",
+        "upper_bound": "1062",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pottery Barn Qatar"
+    },
+    {
+      "id": "ad_1774034798018_3",
+      "createdAt": "2026-02-22T12:52:53.899Z",
+      "startedAt": "2026-03-14T13:13:17.509Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "44583",
+        "upper_bound": "131739"
+      },
+      "spend": {
+        "lower_bound": "519",
+        "upper_bound": "1648",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Pottery Barn Qatar"
+    }
+  ]
+}

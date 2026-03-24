@@ -1,0 +1,214 @@
+{
+  "competitor": "JYSK Saudi",
+  "fbPageName": "JYSKSaudi",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.517Z",
+  "adsCount": 12,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986517_0",
+      "createdAt": "2026-03-06T16:58:51.753Z",
+      "startedAt": "2026-03-11T17:58:41.171Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "11684",
+        "upper_bound": "237903"
+      },
+      "spend": {
+        "lower_bound": "233",
+        "upper_bound": "1686",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_1",
+      "createdAt": "2026-03-17T22:23:27.840Z",
+      "startedAt": "2026-03-07T10:23:44.310Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "48718",
+        "upper_bound": "157624"
+      },
+      "spend": {
+        "lower_bound": "492",
+        "upper_bound": "1710",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_2",
+      "createdAt": "2026-03-16T06:32:45.603Z",
+      "startedAt": "2026-03-07T04:50:33.646Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "19816",
+        "upper_bound": "196153"
+      },
+      "spend": {
+        "lower_bound": "318",
+        "upper_bound": "927",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_3",
+      "createdAt": "2026-02-28T13:52:19.426Z",
+      "startedAt": "2026-03-13T03:43:32.676Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "46677",
+        "upper_bound": "75745"
+      },
+      "spend": {
+        "lower_bound": "445",
+        "upper_bound": "589",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_4",
+      "createdAt": "2026-02-20T08:19:00.253Z",
+      "startedAt": "2026-03-13T04:23:10.265Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "49152",
+        "upper_bound": "143798"
+      },
+      "spend": {
+        "lower_bound": "323",
+        "upper_bound": "2166",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_5",
+      "createdAt": "2026-03-05T22:35:34.321Z",
+      "startedAt": "2026-03-08T13:17:16.513Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "24185",
+        "upper_bound": "86439"
+      },
+      "spend": {
+        "lower_bound": "100",
+        "upper_bound": "904",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_6",
+      "createdAt": "2026-02-25T07:31:03.852Z",
+      "startedAt": "2026-03-09T20:51:34.060Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "59779",
+        "upper_bound": "58576"
+      },
+      "spend": {
+        "lower_bound": "245",
+        "upper_bound": "1976",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_7",
+      "createdAt": "2026-03-16T21:28:20.475Z",
+      "startedAt": "2026-03-20T06:29:12.436Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_7",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "15766",
+        "upper_bound": "232976"
+      },
+      "spend": {
+        "lower_bound": "519",
+        "upper_bound": "2462",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_8",
+      "createdAt": "2026-03-12T22:56:08.600Z",
+      "startedAt": "2026-03-07T21:06:41.402Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_8",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "30607",
+        "upper_bound": "129222"
+      },
+      "spend": {
+        "lower_bound": "258",
+        "upper_bound": "2043",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_9",
+      "createdAt": "2026-03-19T16:06:23.758Z",
+      "startedAt": "2026-03-11T01:22:32.314Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_9",
+      "body": "🛋️ Discover our latest bedroom set collection.",
+      "impressions": {
+        "lower_bound": "39376",
+        "upper_bound": "243668"
+      },
+      "spend": {
+        "lower_bound": "348",
+        "upper_bound": "1604",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_10",
+      "createdAt": "2026-02-23T11:18:09.205Z",
+      "startedAt": "2026-03-09T21:49:37.050Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_10",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "46768",
+        "upper_bound": "97152"
+      },
+      "spend": {
+        "lower_bound": "375",
+        "upper_bound": "582",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    },
+    {
+      "id": "ad_1774034986517_11",
+      "createdAt": "2026-02-24T20:32:23.874Z",
+      "startedAt": "2026-03-11T02:06:28.645Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_11",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "20813",
+        "upper_bound": "173123"
+      },
+      "spend": {
+        "lower_bound": "177",
+        "upper_bound": "2213",
+        "currency": "SAR"
+      },
+      "fundingEntity": "JYSK Saudi"
+    }
+  ]
+}

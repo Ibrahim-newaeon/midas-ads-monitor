@@ -1,0 +1,61 @@
+{
+  "competitor": "Doha Furniture",
+  "fbPageName": "DohaFurnitureQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.108Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798108_0",
+      "createdAt": "2026-03-14T00:24:55.673Z",
+      "startedAt": "2026-03-13T07:42:31.939Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "39713",
+        "upper_bound": "119827"
+      },
+      "spend": {
+        "lower_bound": "348",
+        "upper_bound": "1763",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Doha Furniture"
+    },
+    {
+      "id": "ad_1774034798108_1",
+      "createdAt": "2026-03-09T22:09:01.636Z",
+      "startedAt": "2026-03-10T10:38:46.073Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "14792",
+        "upper_bound": "57300"
+      },
+      "spend": {
+        "lower_bound": "149",
+        "upper_bound": "1394",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Doha Furniture"
+    },
+    {
+      "id": "ad_1774034798108_2",
+      "createdAt": "2026-03-19T19:29:14.728Z",
+      "startedAt": "2026-03-15T23:43:11.891Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "55981",
+        "upper_bound": "102896"
+      },
+      "spend": {
+        "lower_bound": "123",
+        "upper_bound": "2196",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Doha Furniture"
+    }
+  ]
+}

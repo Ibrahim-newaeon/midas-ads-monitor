@@ -45,7 +45,10 @@ async function main(): Promise<void> {
     }
 
     const htmlPath = await reporter.generate(report);
+<<<<<<< HEAD
     await reporter.regenerateIndex();
+=======
+>>>>>>> 04c86e18bb2ecdbbc85caa4e9f786088f001d80a
     logger.info(`Done. Report: ${htmlPath}`);
     process.exit(0);
 

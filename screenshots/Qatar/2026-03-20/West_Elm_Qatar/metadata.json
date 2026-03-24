@@ -1,0 +1,78 @@
+{
+  "competitor": "West Elm Qatar",
+  "fbPageName": "WestElmMENA",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.024Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798024_0",
+      "createdAt": "2026-03-08T23:40:06.248Z",
+      "startedAt": "2026-03-17T23:32:06.314Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "25350",
+        "upper_bound": "243250"
+      },
+      "spend": {
+        "lower_bound": "274",
+        "upper_bound": "1692",
+        "currency": "QAR"
+      },
+      "fundingEntity": "West Elm Qatar"
+    },
+    {
+      "id": "ad_1774034798024_1",
+      "createdAt": "2026-02-23T18:10:37.594Z",
+      "startedAt": "2026-03-20T09:34:58.045Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "45111",
+        "upper_bound": "154435"
+      },
+      "spend": {
+        "lower_bound": "579",
+        "upper_bound": "1081",
+        "currency": "QAR"
+      },
+      "fundingEntity": "West Elm Qatar"
+    },
+    {
+      "id": "ad_1774034798024_2",
+      "createdAt": "2026-03-16T17:55:44.790Z",
+      "startedAt": "2026-03-13T17:27:47.422Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "25997",
+        "upper_bound": "81269"
+      },
+      "spend": {
+        "lower_bound": "395",
+        "upper_bound": "595",
+        "currency": "QAR"
+      },
+      "fundingEntity": "West Elm Qatar"
+    },
+    {
+      "id": "ad_1774034798024_3",
+      "createdAt": "2026-02-21T01:51:03.544Z",
+      "startedAt": "2026-03-20T10:14:52.756Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "12384",
+        "upper_bound": "249660"
+      },
+      "spend": {
+        "lower_bound": "438",
+        "upper_bound": "784",
+        "currency": "QAR"
+      },
+      "fundingEntity": "West Elm Qatar"
+    }
+  ]
+}

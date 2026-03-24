@@ -1,0 +1,129 @@
+{
+  "competitor": "Harvest Home Qatar",
+  "fbPageName": "HarvestHomeQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.186Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798186_0",
+      "createdAt": "2026-03-09T16:57:05.359Z",
+      "startedAt": "2026-03-13T17:13:10.183Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "48092",
+        "upper_bound": "54744"
+      },
+      "spend": {
+        "lower_bound": "569",
+        "upper_bound": "851",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Harvest Home Qatar"
+    },
+    {
+      "id": "ad_1774034798186_1",
+      "createdAt": "2026-03-17T22:26:09.912Z",
+      "startedAt": "2026-03-19T04:51:52.463Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "47605",
+        "upper_bound": "152731"
+      },
+      "spend": {
+        "lower_bound": "396",
+        "upper_bound": "2275",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Harvest Home Qatar"
+    },
+    {
+      "id": "ad_1774034798186_2",
+      "createdAt": "2026-03-12T02:38:33.574Z",
+      "startedAt": "2026-03-16T18:36:49.482Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "58503",
+        "upper_bound": "227253"
+      },
+      "spend": {
+        "lower_bound": "494",
+        "upper_bound": "589",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Harvest Home Qatar"
+    },
+    {
+      "id": "ad_1774034798186_3",
+      "createdAt": "2026-03-13T14:16:31.357Z",
+      "startedAt": "2026-03-14T04:27:16.661Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "30103",
+        "upper_bound": "201774"
+      },
+      "spend": {
+        "lower_bound": "404",
+        "upper_bound": "904",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Harvest Home Qatar"
+    },
+    {
+      "id": "ad_1774034798186_4",
+      "createdAt": "2026-03-03T08:28:08.282Z",
+      "startedAt": "2026-03-08T18:43:14.149Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "34508",
+        "upper_bound": "111118"
+      },
+      "spend": {
+        "lower_bound": "113",
+        "upper_bound": "2278",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Harvest Home Qatar"
+    },
+    {
+      "id": "ad_1774034798186_5",
+      "createdAt": "2026-02-23T18:31:27.809Z",
+      "startedAt": "2026-03-17T17:29:52.127Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "37677",
+        "upper_bound": "191646"
+      },
+      "spend": {
+        "lower_bound": "145",
+        "upper_bound": "807",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Harvest Home Qatar"
+    },
+    {
+      "id": "ad_1774034798186_6",
+      "createdAt": "2026-03-16T05:58:15.943Z",
+      "startedAt": "2026-03-20T05:05:50.791Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "28750",
+        "upper_bound": "235387"
+      },
+      "spend": {
+        "lower_bound": "501",
+        "upper_bound": "1103",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Harvest Home Qatar"
+    }
+  ]
+}

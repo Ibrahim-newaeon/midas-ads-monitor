@@ -1,0 +1,61 @@
+{
+  "competitor": "Al Mana Furniture",
+  "fbPageName": "AlManaFurnitureQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.104Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798104_0",
+      "createdAt": "2026-03-19T09:32:53.888Z",
+      "startedAt": "2026-03-07T10:01:49.750Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "56750",
+        "upper_bound": "140667"
+      },
+      "spend": {
+        "lower_bound": "188",
+        "upper_bound": "1724",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Al Mana Furniture"
+    },
+    {
+      "id": "ad_1774034798104_1",
+      "createdAt": "2026-02-22T17:46:52.803Z",
+      "startedAt": "2026-03-20T16:35:08.849Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "14489",
+        "upper_bound": "139325"
+      },
+      "spend": {
+        "lower_bound": "383",
+        "upper_bound": "1190",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Al Mana Furniture"
+    },
+    {
+      "id": "ad_1774034798104_2",
+      "createdAt": "2026-03-02T17:58:32.659Z",
+      "startedAt": "2026-03-13T14:59:03.189Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "43226",
+        "upper_bound": "94097"
+      },
+      "spend": {
+        "lower_bound": "562",
+        "upper_bound": "2480",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Al Mana Furniture"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "competitor": "Homes R Us Qatar",
+  "fbPageName": "HomesRUsQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.030Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798030_0",
+      "createdAt": "2026-03-03T06:43:01.361Z",
+      "startedAt": "2026-03-09T15:17:07.453Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "20572",
+        "upper_bound": "131648"
+      },
+      "spend": {
+        "lower_bound": "394",
+        "upper_bound": "2381",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Homes R Us Qatar"
+    },
+    {
+      "id": "ad_1774034798030_1",
+      "createdAt": "2026-02-26T16:49:31.042Z",
+      "startedAt": "2026-03-17T15:27:45.049Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "10438",
+        "upper_bound": "178716"
+      },
+      "spend": {
+        "lower_bound": "249",
+        "upper_bound": "2430",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Homes R Us Qatar"
+    },
+    {
+      "id": "ad_1774034798030_2",
+      "createdAt": "2026-02-24T11:49:27.383Z",
+      "startedAt": "2026-03-07T19:12:40.957Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "57815",
+        "upper_bound": "70485"
+      },
+      "spend": {
+        "lower_bound": "162",
+        "upper_bound": "1796",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Homes R Us Qatar"
+    },
+    {
+      "id": "ad_1774034798030_3",
+      "createdAt": "2026-02-28T05:59:08.400Z",
+      "startedAt": "2026-03-11T02:29:23.055Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "58760",
+        "upper_bound": "71164"
+      },
+      "spend": {
+        "lower_bound": "503",
+        "upper_bound": "918",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Homes R Us Qatar"
+    },
+    {
+      "id": "ad_1774034798030_4",
+      "createdAt": "2026-03-07T19:08:45.180Z",
+      "startedAt": "2026-03-07T21:59:26.274Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "24041",
+        "upper_bound": "83844"
+      },
+      "spend": {
+        "lower_bound": "559",
+        "upper_bound": "1191",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Homes R Us Qatar"
+    },
+    {
+      "id": "ad_1774034798030_5",
+      "createdAt": "2026-03-18T14:58:29.792Z",
+      "startedAt": "2026-03-20T08:36:55.444Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "16642",
+        "upper_bound": "188247"
+      },
+      "spend": {
+        "lower_bound": "429",
+        "upper_bound": "1627",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Homes R Us Qatar"
+    },
+    {
+      "id": "ad_1774034798030_6",
+      "createdAt": "2026-03-17T17:09:47.740Z",
+      "startedAt": "2026-03-17T15:46:40.986Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "10626",
+        "upper_bound": "84428"
+      },
+      "spend": {
+        "lower_bound": "178",
+        "upper_bound": "911",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Homes R Us Qatar"
+    }
+  ]
+}

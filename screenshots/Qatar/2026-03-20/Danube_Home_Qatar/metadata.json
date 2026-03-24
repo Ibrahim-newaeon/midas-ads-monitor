@@ -1,0 +1,129 @@
+{
+  "competitor": "Danube Home Qatar",
+  "fbPageName": "DanubeHomeQatar",
+  "country": "Qatar",
+  "capturedAt": "2026-03-20T19:26:38.006Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034798006_0",
+      "createdAt": "2026-03-13T19:12:41.818Z",
+      "startedAt": "2026-03-12T17:01:26.321Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "16903",
+        "upper_bound": "205430"
+      },
+      "spend": {
+        "lower_bound": "496",
+        "upper_bound": "507",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Danube Home Qatar"
+    },
+    {
+      "id": "ad_1774034798006_1",
+      "createdAt": "2026-03-01T18:38:15.244Z",
+      "startedAt": "2026-03-08T06:56:34.883Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "10734",
+        "upper_bound": "205061"
+      },
+      "spend": {
+        "lower_bound": "211",
+        "upper_bound": "2057",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Danube Home Qatar"
+    },
+    {
+      "id": "ad_1774034798006_2",
+      "createdAt": "2026-02-20T08:40:44.548Z",
+      "startedAt": "2026-03-18T19:31:51.559Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "59296",
+        "upper_bound": "172950"
+      },
+      "spend": {
+        "lower_bound": "271",
+        "upper_bound": "1116",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Danube Home Qatar"
+    },
+    {
+      "id": "ad_1774034798006_3",
+      "createdAt": "2026-03-03T10:32:59.479Z",
+      "startedAt": "2026-03-08T17:54:14.898Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "46843",
+        "upper_bound": "139984"
+      },
+      "spend": {
+        "lower_bound": "290",
+        "upper_bound": "1735",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Danube Home Qatar"
+    },
+    {
+      "id": "ad_1774034798006_4",
+      "createdAt": "2026-02-25T23:47:56.150Z",
+      "startedAt": "2026-03-16T06:38:06.153Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "10716",
+        "upper_bound": "141080"
+      },
+      "spend": {
+        "lower_bound": "211",
+        "upper_bound": "990",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Danube Home Qatar"
+    },
+    {
+      "id": "ad_1774034798006_5",
+      "createdAt": "2026-03-16T14:47:23.901Z",
+      "startedAt": "2026-03-17T17:05:06.229Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Qatar.",
+      "impressions": {
+        "lower_bound": "48185",
+        "upper_bound": "141835"
+      },
+      "spend": {
+        "lower_bound": "470",
+        "upper_bound": "577",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Danube Home Qatar"
+    },
+    {
+      "id": "ad_1774034798006_6",
+      "createdAt": "2026-03-08T10:21:33.012Z",
+      "startedAt": "2026-03-15T06:15:27.445Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "53635",
+        "upper_bound": "180904"
+      },
+      "spend": {
+        "lower_bound": "149",
+        "upper_bound": "2474",
+        "currency": "QAR"
+      },
+      "fundingEntity": "Danube Home Qatar"
+    }
+  ]
+}

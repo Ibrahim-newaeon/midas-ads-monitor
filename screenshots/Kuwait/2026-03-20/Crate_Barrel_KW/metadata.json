@@ -1,0 +1,78 @@
+{
+  "competitor": "Crate & Barrel KW",
+  "fbPageName": "CrateAndBarrelMENA",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:46.089Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034806089_0",
+      "createdAt": "2026-03-15T09:24:34.701Z",
+      "startedAt": "2026-03-11T21:24:08.209Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "48428",
+        "upper_bound": "230729"
+      },
+      "spend": {
+        "lower_bound": "339",
+        "upper_bound": "1232",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Crate & Barrel KW"
+    },
+    {
+      "id": "ad_1774034806089_1",
+      "createdAt": "2026-02-23T22:19:07.294Z",
+      "startedAt": "2026-03-20T10:04:01.644Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "24761",
+        "upper_bound": "151948"
+      },
+      "spend": {
+        "lower_bound": "474",
+        "upper_bound": "1828",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Crate & Barrel KW"
+    },
+    {
+      "id": "ad_1774034806089_2",
+      "createdAt": "2026-03-09T21:01:44.692Z",
+      "startedAt": "2026-03-12T11:37:03.478Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "47929",
+        "upper_bound": "51673"
+      },
+      "spend": {
+        "lower_bound": "378",
+        "upper_bound": "1109",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Crate & Barrel KW"
+    },
+    {
+      "id": "ad_1774034806089_3",
+      "createdAt": "2026-03-13T18:20:29.962Z",
+      "startedAt": "2026-03-18T10:41:06.948Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "18104",
+        "upper_bound": "132348"
+      },
+      "spend": {
+        "lower_bound": "218",
+        "upper_bound": "1779",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Crate & Barrel KW"
+    }
+  ]
+}

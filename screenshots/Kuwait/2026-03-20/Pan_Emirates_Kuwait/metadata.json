@@ -1,0 +1,129 @@
+{
+  "competitor": "Pan Emirates Kuwait",
+  "fbPageName": "PanEmiratesKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.830Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805830_0",
+      "createdAt": "2026-03-09T06:07:08.044Z",
+      "startedAt": "2026-03-07T08:16:11.764Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "26591",
+        "upper_bound": "119347"
+      },
+      "spend": {
+        "lower_bound": "383",
+        "upper_bound": "1210",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pan Emirates Kuwait"
+    },
+    {
+      "id": "ad_1774034805830_1",
+      "createdAt": "2026-03-17T14:09:30.466Z",
+      "startedAt": "2026-03-10T11:44:17.394Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "24438",
+        "upper_bound": "245173"
+      },
+      "spend": {
+        "lower_bound": "237",
+        "upper_bound": "2355",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pan Emirates Kuwait"
+    },
+    {
+      "id": "ad_1774034805830_2",
+      "createdAt": "2026-03-14T07:24:49.069Z",
+      "startedAt": "2026-03-13T14:53:52.806Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "33259",
+        "upper_bound": "91304"
+      },
+      "spend": {
+        "lower_bound": "514",
+        "upper_bound": "1808",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pan Emirates Kuwait"
+    },
+    {
+      "id": "ad_1774034805830_3",
+      "createdAt": "2026-03-09T07:08:27.368Z",
+      "startedAt": "2026-03-20T18:42:15.794Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "45814",
+        "upper_bound": "177812"
+      },
+      "spend": {
+        "lower_bound": "516",
+        "upper_bound": "2112",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pan Emirates Kuwait"
+    },
+    {
+      "id": "ad_1774034805830_4",
+      "createdAt": "2026-03-13T15:59:14.042Z",
+      "startedAt": "2026-03-16T13:18:05.711Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "16982",
+        "upper_bound": "126598"
+      },
+      "spend": {
+        "lower_bound": "346",
+        "upper_bound": "1950",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pan Emirates Kuwait"
+    },
+    {
+      "id": "ad_1774034805830_5",
+      "createdAt": "2026-02-27T06:49:50.459Z",
+      "startedAt": "2026-03-17T06:09:31.917Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "59678",
+        "upper_bound": "218606"
+      },
+      "spend": {
+        "lower_bound": "551",
+        "upper_bound": "1314",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pan Emirates Kuwait"
+    },
+    {
+      "id": "ad_1774034805830_6",
+      "createdAt": "2026-03-07T11:52:43.211Z",
+      "startedAt": "2026-03-08T07:05:56.459Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "41868",
+        "upper_bound": "153876"
+      },
+      "spend": {
+        "lower_bound": "181",
+        "upper_bound": "1020",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Pan Emirates Kuwait"
+    }
+  ]
+}

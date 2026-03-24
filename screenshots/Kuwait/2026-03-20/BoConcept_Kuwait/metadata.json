@@ -1,0 +1,78 @@
+{
+  "competitor": "BoConcept Kuwait",
+  "fbPageName": "BoConceptKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.983Z",
+  "adsCount": 4,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805983_0",
+      "createdAt": "2026-02-20T13:50:20.312Z",
+      "startedAt": "2026-03-09T05:38:18.515Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "45048",
+        "upper_bound": "93866"
+      },
+      "spend": {
+        "lower_bound": "157",
+        "upper_bound": "2073",
+        "currency": "KWD"
+      },
+      "fundingEntity": "BoConcept Kuwait"
+    },
+    {
+      "id": "ad_1774034805983_1",
+      "createdAt": "2026-03-02T19:18:00.543Z",
+      "startedAt": "2026-03-15T10:52:05.240Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "30476",
+        "upper_bound": "79834"
+      },
+      "spend": {
+        "lower_bound": "587",
+        "upper_bound": "2443",
+        "currency": "KWD"
+      },
+      "fundingEntity": "BoConcept Kuwait"
+    },
+    {
+      "id": "ad_1774034805983_2",
+      "createdAt": "2026-02-24T04:20:11.167Z",
+      "startedAt": "2026-03-09T05:42:47.983Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "24338",
+        "upper_bound": "53662"
+      },
+      "spend": {
+        "lower_bound": "125",
+        "upper_bound": "1837",
+        "currency": "KWD"
+      },
+      "fundingEntity": "BoConcept Kuwait"
+    },
+    {
+      "id": "ad_1774034805983_3",
+      "createdAt": "2026-03-12T06:52:05.034Z",
+      "startedAt": "2026-03-17T23:09:50.072Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "42632",
+        "upper_bound": "75100"
+      },
+      "spend": {
+        "lower_bound": "362",
+        "upper_bound": "1229",
+        "currency": "KWD"
+      },
+      "fundingEntity": "BoConcept Kuwait"
+    }
+  ]
+}

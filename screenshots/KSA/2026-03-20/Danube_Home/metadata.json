@@ -1,0 +1,129 @@
+{
+  "competitor": "Danube Home",
+  "fbPageName": "DanubeHome",
+  "country": "KSA",
+  "capturedAt": "2026-03-20T19:29:46.483Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034986483_0",
+      "createdAt": "2026-03-08T15:07:47.747Z",
+      "startedAt": "2026-03-19T08:36:15.226Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "51186",
+        "upper_bound": "169979"
+      },
+      "spend": {
+        "lower_bound": "225",
+        "upper_bound": "554",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Danube Home"
+    },
+    {
+      "id": "ad_1774034986483_1",
+      "createdAt": "2026-02-23T02:36:54.251Z",
+      "startedAt": "2026-03-10T12:34:57.533Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "19903",
+        "upper_bound": "119826"
+      },
+      "spend": {
+        "lower_bound": "115",
+        "upper_bound": "2461",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Danube Home"
+    },
+    {
+      "id": "ad_1774034986483_2",
+      "createdAt": "2026-03-06T01:54:21.118Z",
+      "startedAt": "2026-03-07T08:52:07.258Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "34544",
+        "upper_bound": "141078"
+      },
+      "spend": {
+        "lower_bound": "365",
+        "upper_bound": "1053",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Danube Home"
+    },
+    {
+      "id": "ad_1774034986483_3",
+      "createdAt": "2026-02-20T01:02:40.400Z",
+      "startedAt": "2026-03-07T05:01:30.851Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "10693",
+        "upper_bound": "143592"
+      },
+      "spend": {
+        "lower_bound": "121",
+        "upper_bound": "560",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Danube Home"
+    },
+    {
+      "id": "ad_1774034986483_4",
+      "createdAt": "2026-02-22T11:03:54.658Z",
+      "startedAt": "2026-03-16T16:07:35.234Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "36894",
+        "upper_bound": "69143"
+      },
+      "spend": {
+        "lower_bound": "118",
+        "upper_bound": "1382",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Danube Home"
+    },
+    {
+      "id": "ad_1774034986483_5",
+      "createdAt": "2026-03-03T11:52:19.667Z",
+      "startedAt": "2026-03-11T16:32:15.767Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Saudi Arabia.",
+      "impressions": {
+        "lower_bound": "43276",
+        "upper_bound": "62505"
+      },
+      "spend": {
+        "lower_bound": "445",
+        "upper_bound": "1548",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Danube Home"
+    },
+    {
+      "id": "ad_1774034986483_6",
+      "createdAt": "2026-03-01T12:07:18.174Z",
+      "startedAt": "2026-03-13T19:19:12.795Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "50469",
+        "upper_bound": "109642"
+      },
+      "spend": {
+        "lower_bound": "531",
+        "upper_bound": "1639",
+        "currency": "SAR"
+      },
+      "fundingEntity": "Danube Home"
+    }
+  ]
+}

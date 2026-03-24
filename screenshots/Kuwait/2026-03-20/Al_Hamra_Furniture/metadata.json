@@ -1,0 +1,61 @@
+{
+  "competitor": "Al Hamra Furniture",
+  "fbPageName": "AlHamraFurnitureKW",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:46.009Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034806009_0",
+      "createdAt": "2026-02-19T06:38:30.804Z",
+      "startedAt": "2026-03-09T06:54:10.040Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "20614",
+        "upper_bound": "123295"
+      },
+      "spend": {
+        "lower_bound": "326",
+        "upper_bound": "1928",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Al Hamra Furniture"
+    },
+    {
+      "id": "ad_1774034806009_1",
+      "createdAt": "2026-03-08T05:35:37.886Z",
+      "startedAt": "2026-03-10T17:25:25.353Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "37132",
+        "upper_bound": "137555"
+      },
+      "spend": {
+        "lower_bound": "280",
+        "upper_bound": "2311",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Al Hamra Furniture"
+    },
+    {
+      "id": "ad_1774034806009_2",
+      "createdAt": "2026-03-19T09:50:17.175Z",
+      "startedAt": "2026-03-09T01:26:24.902Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "42017",
+        "upper_bound": "191976"
+      },
+      "spend": {
+        "lower_bound": "343",
+        "upper_bound": "1655",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Al Hamra Furniture"
+    }
+  ]
+}

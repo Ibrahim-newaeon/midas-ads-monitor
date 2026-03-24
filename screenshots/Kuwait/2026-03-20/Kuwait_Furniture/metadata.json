@@ -1,0 +1,61 @@
+{
+  "competitor": "Kuwait Furniture",
+  "fbPageName": "KuwaitFurnitureHouse",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:46.013Z",
+  "adsCount": 3,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034806013_0",
+      "createdAt": "2026-02-28T14:04:31.061Z",
+      "startedAt": "2026-03-08T22:29:36.342Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "24748",
+        "upper_bound": "140453"
+      },
+      "spend": {
+        "lower_bound": "149",
+        "upper_bound": "2295",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Kuwait Furniture"
+    },
+    {
+      "id": "ad_1774034806013_1",
+      "createdAt": "2026-03-06T03:04:34.491Z",
+      "startedAt": "2026-03-13T14:47:21.533Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "51918",
+        "upper_bound": "98829"
+      },
+      "spend": {
+        "lower_bound": "460",
+        "upper_bound": "596",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Kuwait Furniture"
+    },
+    {
+      "id": "ad_1774034806013_2",
+      "createdAt": "2026-02-26T06:43:02.543Z",
+      "startedAt": "2026-03-13T23:08:12.091Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "51181",
+        "upper_bound": "119192"
+      },
+      "spend": {
+        "lower_bound": "481",
+        "upper_bound": "1060",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Kuwait Furniture"
+    }
+  ]
+}

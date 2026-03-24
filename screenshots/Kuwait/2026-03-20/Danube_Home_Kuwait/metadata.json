@@ -1,0 +1,129 @@
+{
+  "competitor": "Danube Home Kuwait",
+  "fbPageName": "DanubeHomeKuwait",
+  "country": "Kuwait",
+  "capturedAt": "2026-03-20T19:26:45.889Z",
+  "adsCount": 7,
+  "source": "dry-run-simulation",
+  "ads": [
+    {
+      "id": "ad_1774034805889_0",
+      "createdAt": "2026-03-10T06:42:00.778Z",
+      "startedAt": "2026-03-17T04:37:46.892Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_0",
+      "body": "🛋️ Discover our latest sofa collection.",
+      "impressions": {
+        "lower_bound": "38644",
+        "upper_bound": "152277"
+      },
+      "spend": {
+        "lower_bound": "522",
+        "upper_bound": "543",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Danube Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805889_1",
+      "createdAt": "2026-02-25T03:11:10.436Z",
+      "startedAt": "2026-03-10T22:52:55.037Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_1",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "26379",
+        "upper_bound": "75697"
+      },
+      "spend": {
+        "lower_bound": "172",
+        "upper_bound": "2105",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Danube Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805889_2",
+      "createdAt": "2026-02-28T08:53:18.532Z",
+      "startedAt": "2026-03-09T20:42:27.396Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_2",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "23794",
+        "upper_bound": "196596"
+      },
+      "spend": {
+        "lower_bound": "288",
+        "upper_bound": "1876",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Danube Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805889_3",
+      "createdAt": "2026-02-19T11:55:10.071Z",
+      "startedAt": "2026-03-20T17:49:08.334Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_3",
+      "body": "🛋️ Discover our latest wardrobe collection.",
+      "impressions": {
+        "lower_bound": "16065",
+        "upper_bound": "94915"
+      },
+      "spend": {
+        "lower_bound": "394",
+        "upper_bound": "2483",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Danube Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805889_4",
+      "createdAt": "2026-03-18T20:53:30.230Z",
+      "startedAt": "2026-03-06T21:09:39.177Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_4",
+      "body": "Special Ramadan offer — up to 50% off on selected items. Shop now!",
+      "impressions": {
+        "lower_bound": "39862",
+        "upper_bound": "182893"
+      },
+      "spend": {
+        "lower_bound": "207",
+        "upper_bound": "2259",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Danube Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805889_5",
+      "createdAt": "2026-03-03T20:55:11.953Z",
+      "startedAt": "2026-03-18T20:53:07.604Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_5",
+      "body": "Transform your home with premium quality furniture. Free delivery in Kuwait.",
+      "impressions": {
+        "lower_bound": "39934",
+        "upper_bound": "71419"
+      },
+      "spend": {
+        "lower_bound": "352",
+        "upper_bound": "2036",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Danube Home Kuwait"
+    },
+    {
+      "id": "ad_1774034805889_6",
+      "createdAt": "2026-03-20T10:45:06.613Z",
+      "startedAt": "2026-03-13T22:30:41.070Z",
+      "snapshotUrl": "https://www.facebook.com/ads/archive/render_ad/?id=mock_6",
+      "body": "🛋️ Discover our latest dining table collection.",
+      "impressions": {
+        "lower_bound": "47839",
+        "upper_bound": "119769"
+      },
+      "spend": {
+        "lower_bound": "274",
+        "upper_bound": "2034",
+        "currency": "KWD"
+      },
+      "fundingEntity": "Danube Home Kuwait"
+    }
+  ]
+}
