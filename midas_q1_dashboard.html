@@ -67,11 +67,14 @@ tbody td{padding:9px 12px;color:var(--text)}
 .trend-dn{color:var(--red);font-weight:600;font-size:11px}
 .trend-flat{color:var(--muted);font-size:11px}
 /* Channel bar */
-.ch-row{display:flex;align-items:center;gap:10px;margin-bottom:8px}
-.ch-name{font-size:11px;color:var(--muted);width:130px;flex-shrink:0;text-align:right}
+.ch-row{display:flex;align-items:center;gap:8px;margin-bottom:7px}
+.ch-name{font-size:11px;color:var(--muted);width:118px;flex-shrink:0;text-align:right}
 .ch-bar-wrap{flex:1;background:rgba(255,255,255,0.06);border-radius:3px;height:6px;overflow:hidden}
 .ch-bar{height:100%;border-radius:3px;transition:width .4s}
-.ch-val{font-size:11px;font-variant-numeric:tabular-nums;font-family:monospace;width:68px;flex-shrink:0;text-align:right;color:var(--text)}
+.ch-val{font-size:11px;font-variant-numeric:tabular-nums;font-family:monospace;width:56px;flex-shrink:0;text-align:right;color:var(--text)}
+.ch-drop{font-size:10px;font-weight:700;width:52px;flex-shrink:0;text-align:right}
+.ch-drop.dn{color:var(--red)}
+.ch-drop.up{color:var(--teal)}
 /* Insight cards */
 .insight-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .insight{background:rgba(255,255,255,0.03);border:1px solid var(--border);border-radius:10px;padding:14px 16px}
@@ -175,21 +178,24 @@ tbody td{padding:9px 12px;color:var(--text)}
 
   <!-- Channel breakdown -->
   <div class="sec">
-    <div class="sec-hdr"><div class="sec-title">Channel Performance — February 2026 Peak</div></div>
+    <div class="sec-hdr"><div class="sec-title">Channel Performance — February Peak &amp; Feb→Mar Drop</div></div>
     <div class="grid3">
       <!-- KSA -->
       <div class="card">
-        <div class="card-title"><span class="ct-dot" style="background:var(--gold)"></span>🇸🇦 KSA — Feb: 124,990</div>
+        <div class="card-title"><span class="ct-dot" style="background:var(--gold)"></span>🇸🇦 KSA — Feb: 124,990 sessions</div>
+        <div style="font-size:9px;color:var(--muted);margin-bottom:10px;display:flex;justify-content:flex-end;gap:20px;padding-right:4px"><span>Feb sessions</span><span>Feb→Mar drop</span></div>
         <div id="ch-ksa"></div>
       </div>
       <!-- Kuwait -->
       <div class="card">
-        <div class="card-title"><span class="ct-dot" style="background:var(--teal)"></span>🇰🇼 Kuwait — Feb: 71,616</div>
+        <div class="card-title"><span class="ct-dot" style="background:var(--teal)"></span>🇰🇼 Kuwait — Feb: 71,616 sessions</div>
+        <div style="font-size:9px;color:var(--muted);margin-bottom:10px;display:flex;justify-content:flex-end;gap:20px;padding-right:4px"><span>Feb sessions</span><span>Feb→Mar drop</span></div>
         <div id="ch-kw"></div>
       </div>
       <!-- Qatar -->
       <div class="card">
-        <div class="card-title"><span class="ct-dot" style="background:var(--red)"></span>🇶🇦 Qatar — Feb: 42,615</div>
+        <div class="card-title"><span class="ct-dot" style="background:var(--red)"></span>🇶🇦 Qatar — Feb: 42,615 sessions</div>
+        <div style="font-size:9px;color:var(--muted);margin-bottom:10px;display:flex;justify-content:flex-end;gap:20px;padding-right:4px"><span>Feb sessions</span><span>Feb→Mar drop</span></div>
         <div id="ch-qa"></div>
       </div>
     </div>
@@ -405,37 +411,37 @@ const traffic = {
   qa:  [24549,  42615, 12775]
 };
 
-// Channels (New Aeon, Feb 2026 = peak)
+// Channels (New Aeon, Feb 2026 = peak, drop = Feb→Mar %)
 const channels = {
   ksa: [
-    {name:'Paid Search',val:44916,col:'#4A8FD9'},
-    {name:'Paid Social',val:16234,col:'#00C9B1'},
-    {name:'Organic Search',val:23356,col:'#F5A623'},
-    {name:'Direct',val:20529,col:'#7C5CBF'},
-    {name:'Cross-network',val:945,col:'#FF4D5E'},
-    {name:'Organic Social',val:8172,col:'#56CFE1'},
-    {name:'Paid Video',val:955,col:'#FF9F43'},
-    {name:'Referral',val:3141,col:'#A29BFE'}
+    {name:'Paid Search',    val:44916, col:'#4A8FD9', drop:-93.2},
+    {name:'Paid Social',    val:16234, col:'#00C9B1', drop:-97.1},
+    {name:'Organic Search', val:23356, col:'#F5A623', drop:-40.9},
+    {name:'Direct',         val:20529, col:'#7C5CBF', drop:-69.5},
+    {name:'Organic Social', val:8172,  col:'#56CFE1', drop:-76.7},
+    {name:'Referral',       val:3141,  col:'#A29BFE', drop:-94.6},
+    {name:'Paid Video',     val:955,   col:'#FF9F43', drop:-81.3},
+    {name:'Cross-network',  val:945,   col:'#FF4D5E', drop:-95.3}
   ],
   kw: [
-    {name:'Paid Search',val:30423,col:'#4A8FD9'},
-    {name:'Paid Social',val:5052,col:'#00C9B1'},
-    {name:'Organic Search',val:13810,col:'#F5A623'},
-    {name:'Direct',val:12024,col:'#7C5CBF'},
-    {name:'Organic Social',val:5381,col:'#56CFE1'},
-    {name:'Paid Video',val:2068,col:'#FF9F43'},
-    {name:'Unassigned',val:1356,col:'#636E72'},
-    {name:'Cross-network',val:686,col:'#FF4D5E'}
+    {name:'Paid Search',    val:30423, col:'#4A8FD9', drop:-93.1},
+    {name:'Organic Search', val:13810, col:'#F5A623', drop:-27.0},
+    {name:'Direct',         val:12024, col:'#7C5CBF', drop:-60.6},
+    {name:'Paid Social',    val:5052,  col:'#00C9B1', drop:-99.7},
+    {name:'Organic Social', val:5381,  col:'#56CFE1', drop:-24.2},
+    {name:'Paid Video',     val:2068,  col:'#FF9F43', drop:-98.8},
+    {name:'Referral',       val:355,   col:'#A29BFE', drop:+276.1},
+    {name:'Unassigned',     val:1356,  col:'#636E72', drop:+95.4}
   ],
   qa: [
-    {name:'Paid Search',val:17643,col:'#4A8FD9'},
-    {name:'Paid Social',val:2471,col:'#00C9B1'},
-    {name:'Organic Search',val:10236,col:'#F5A623'},
-    {name:'Direct',val:6995,col:'#7C5CBF'},
-    {name:'Paid Other',val:2672,col:'#FF9F43'},
-    {name:'Unassigned',val:983,col:'#636E72'},
-    {name:'Cross-network',val:461,col:'#FF4D5E'},
-    {name:'Organic Social',val:830,col:'#56CFE1'}
+    {name:'Paid Search',    val:17643, col:'#4A8FD9', drop:-84.1},
+    {name:'Organic Search', val:10236, col:'#F5A623', drop:-38.6},
+    {name:'Direct',         val:6995,  col:'#7C5CBF', drop:-76.3},
+    {name:'Paid Social',    val:2471,  col:'#00C9B1', drop:-99.9},
+    {name:'Paid Other',     val:2672,  col:'#FF9F43', drop:-86.1},
+    {name:'Organic Social', val:830,   col:'#56CFE1', drop:-34.9},
+    {name:'Unassigned',     val:983,   col:'#636E72', drop:+8.2},
+    {name:'Cross-network',  val:461,   col:'#FF4D5E', drop:-99.3}
   ]
 };
 
@@ -550,15 +556,19 @@ function mkDoughnut(id, labels, data, colors){
 
 // ─── CHANNEL BARS ────────────────────────────────────────────────────────────
 function renderChBars(elId, data){
-  const total = data.reduce((s,d)=>s+d.val,0);
   const sorted = [...data].sort((a,b)=>b.val-a.val);
   const el = document.getElementById(elId);
-  el.innerHTML = sorted.map(d=>`
-    <div class="ch-row">
+  el.innerHTML = sorted.map(d=>{
+    const dropClass = d.drop >= 0 ? 'up' : 'dn';
+    const dropStr  = d.drop >= 0 ? `+${d.drop.toFixed(1)}%` : `${d.drop.toFixed(1)}%`;
+    const valFmt   = d.val >= 1000 ? (d.val/1000).toFixed(1)+'K' : d.val;
+    return`<div class="ch-row">
       <div class="ch-name">${d.name}</div>
       <div class="ch-bar-wrap"><div class="ch-bar" style="width:${Math.round(d.val/sorted[0].val*100)}%;background:${d.col}"></div></div>
-      <div class="ch-val">${d.val>=1000?(d.val/1000).toFixed(1)+'K':d.val}</div>
-    </div>`).join('');
+      <div class="ch-val">${valFmt}</div>
+      <div class="ch-drop ${dropClass}">${dropStr}</div>
+    </div>`;
+  }).join('');
 }
 
 // ─── KEYWORD TABLES ──────────────────────────────────────────────────────────
